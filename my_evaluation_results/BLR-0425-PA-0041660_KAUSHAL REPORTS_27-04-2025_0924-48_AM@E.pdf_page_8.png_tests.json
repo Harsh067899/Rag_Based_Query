@@ -1,0 +1,77 @@
+{
+  "image": "BLR-0425-PA-0041660_KAUSHAL REPORTS_27-04-2025_0924-48_AM@E.pdf_page_8.png",
+  "tests": [
+    {
+      "test_name": "WINGS",
+      "test_value": 40.0,
+      "bio_reference_range": "6",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "SU KANNADA",
+      "test_value": 575004.0,
+      "bio_reference_range": "RauiOn",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "UHID FMR",
+      "test_value": 65101.0,
+      "bio_reference_range": "6",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "(",
+      "test_value": 3556.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Cell Distribution Width)",
+      "test_value": 4119.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Absolute Neutrophils Count               tA B",
+      "test_value": 88.0,
+      "bio_reference_range": "nme",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "ile",
+      "test_value": 0.0,
+      "bio_reference_range": "26 enn SAO NTULe Bs  0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 2.0,
+      "bio_reference_range": "a = 210 E",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "oe  esi Seeranie siesta",
+      "test_value": 53.0,
+      "bio_reference_range": "ANA LEED cama cine 9 eve Seoeninm mig tes",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Nguetar S",
+      "test_value": 2.0,
+      "bio_reference_range": "LS",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "S/+",
+      "test_value": 10.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "fl",
+      "test_value": 69.0,
+      "bio_reference_range": "5",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "image": "CHD-0425-PA-0008729_REQUEST FOR ENHACEMENT_28-04-2025_1006-46_AM.pdf_page_13.png",
+  "tests": [
+    {
+      "test_name": "",
+      "test_value": 501524.0,
+      "bio_reference_range": "6",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Sample No +",
+      "test_value": 0.0,
+      "bio_reference_range": "9",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "i",
+      "test_value": 21.0,
+      "bio_reference_range": "0mg/dl",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "(",
+      "test_value": 14.0,
+      "bio_reference_range": "2",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "EARS",
+      "test_value": 1.0,
+      "bio_reference_range": "Ube Sted Seg NOT                               ees",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

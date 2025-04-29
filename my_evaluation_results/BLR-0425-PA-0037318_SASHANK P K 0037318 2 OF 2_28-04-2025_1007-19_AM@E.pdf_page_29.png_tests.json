@@ -1,0 +1,41 @@
+{
+  "image": "BLR-0425-PA-0037318_SASHANK P K 0037318 2 OF 2_28-04-2025_1007-19_AM@E.pdf_page_29.png",
+  "tests": [
+    {
+      "test_name": "",
+      "test_value": 2.0,
+      "bio_reference_range": "AIGG",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "WURICACID",
+      "test_value": 5.0,
+      "bio_reference_range": "a                 mgidlt",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Une ral",
+      "test_value": 8.0,
+      "bio_reference_range": "wie 6a. prOubeE ef Salmo metabolsit Uiie 3d ie. exoreted.loalargescdegroo y2the",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 738853.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Saclay ersbed Fbnganayso",
+      "test_value": 2.0,
+      "bio_reference_range": "e",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "UoagsarGioaaprcotass",
+      "test_value": 2.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

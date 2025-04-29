@@ -1,0 +1,125 @@
+{
+  "image": "BLR-0425-PA-0039192_05c45741fa5d4b5180df06f200423a00__2_files_merged__26-04-2025_0430-01_PM@E.pdf_page_104.png",
+  "tests": [
+    {
+      "test_name": "",
+      "test_value": 4.0,
+      "bio_reference_range": "1",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 10.0,
+      "bio_reference_range": "2",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 3.0,
+      "bio_reference_range": "2",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "di",
+      "test_value": 3730.0,
+      "bio_reference_range": "8",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 5.0,
+      "bio_reference_range": "ReceivingL",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "SP-",
+      "test_value": 25.0,
+      "bio_reference_range": "Reporting Date",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 223.0,
+      "bio_reference_range": "/ 381505                                                 Date TAT",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "BILIRUBIN TOTAL",
+      "test_value": 8.21,
+      "bio_reference_range": "mg/dl                      0 an- 4.20",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "BILIRUBIN)",
+      "test_value": 7.48,
+      "bio_reference_range": "H               maid                      0.00 - 0.30",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "UNCONJUGATED (",
+      "test_value": 1.0,
+      "bio_reference_range": "D.BILIRUBIN",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "SGOT",
+      "test_value": 113.0,
+      "bio_reference_range": "H             U/L",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "SGPT",
+      "test_value": 89.0,
+      "bio_reference_range": "H                   IWAL                         0.00 - 49.00",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "ALKALINE PHOSPHATASE",
+      "test_value": 438.0,
+      "bio_reference_range": "H                 UAL                      42.00 - 128.00",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "TOTAL PROTEIN",
+      "test_value": 5.0,
+      "bio_reference_range": "L                gmidi                       6.20 - 8 OD",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "ALBUMIN                                              r",
+      "test_value": 3.24,
+      "bio_reference_range": "gr/dl                       3.80 - 5.40",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "GLOBULIN                                            Nag",
+      "test_value": 7.0,
+      "bio_reference_range": "gid",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "- MG RATIO",
+      "test_value": 1.78,
+      "bio_reference_range": "10-20",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "GAMMAT-ST                                                     H                  MU/L",
+      "test_value": 1.0,
+      "bio_reference_range": "1",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "BIOPSY WITH MICRO PH",
+      "test_value": 8.0,
+      "bio_reference_range": ".",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "INVESTIGATION RESULTS ARE",
+      "test_value": 70.0,
+      "bio_reference_range": "BE CORELATED                             DISCREPANCIES",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

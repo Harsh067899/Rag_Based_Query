@@ -1,0 +1,41 @@
+{
+  "image": "BLR-0425-PA-0042483_F-CamScanner0426202520.02_250426_2031@G.pdf_page_20.png",
+  "tests": [
+    {
+      "test_name": "nvewrys",
+      "test_value": 1.0,
+      "bio_reference_range": "Vila Poly Clinks And Olngniatio Ganted",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "N",
+      "test_value": 0.15,
+      "bio_reference_range": "00m tayo",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "e                           Hoole Lu",
+      "test_value": 7074.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 0.0,
+      "bio_reference_range": "oe",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "-",
+      "test_value": 4.0,
+      "bio_reference_range": "3",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Pulis",
+      "test_value": 2.0,
+      "bio_reference_range": "g bina seen te area",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

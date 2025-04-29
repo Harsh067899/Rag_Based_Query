@@ -1,0 +1,47 @@
+{
+  "image": "BLR-0425-PA-0041109_F-PREAUTH202504230003_250423_1752@G.pdf_page_7.png",
+  "tests": [
+    {
+      "test_name": "",
+      "test_value": 27.0,
+      "bio_reference_range": "1",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "g",
+      "test_value": 45.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "oo     D",
+      "test_value": 4.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 2.0,
+      "bio_reference_range": "BITE    pa ee hye      ao",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 3.0,
+      "bio_reference_range": "f0e8     2",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 74.0,
+      "bio_reference_range": ".",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "in Te O",
+      "test_value": 40.0,
+      "bio_reference_range": "2895486 aass",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

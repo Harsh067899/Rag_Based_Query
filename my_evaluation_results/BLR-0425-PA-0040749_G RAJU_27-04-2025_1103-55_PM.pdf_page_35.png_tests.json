@@ -1,0 +1,107 @@
+{
+  "image": "BLR-0425-PA-0040749_G RAJU_27-04-2025_1103-55_PM.pdf_page_35.png",
+  "tests": [
+    {
+      "test_name": "",
+      "test_value": 22.0,
+      "bio_reference_range": "2",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "-Aprs",
+      "test_value": 25.0,
+      "bio_reference_range": "10",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "oo",
+      "test_value": 99.0,
+      "bio_reference_range": "-          Calculated",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "FO",
+      "test_value": 2.0,
+      "bio_reference_range": "HbE",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "cto",
+      "test_value": 2.0,
+      "bio_reference_range": "e             we    Be ES           Ralculated",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "seeded ree",
+      "test_value": 1.0,
+      "bio_reference_range": "scout conyamns",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "pco",
+      "test_value": 2.0,
+      "bio_reference_range": "38     .       32",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "f",
+      "test_value": 80.0,
+      "bio_reference_range": "l0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Naw                         galas AP A",
+      "test_value": 34.0,
+      "bio_reference_range": "s0-146.0 mmol",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "eK",
+      "test_value": 6.02,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "cca                  ages    eLA",
+      "test_value": 5.0,
+      "bio_reference_range": "el 32embq/l",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "clac",
+      "test_value": 185.0,
+      "bio_reference_range": "he0.5/481.6",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "CGlis",
+      "test_value": 1.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "S",
+      "test_value": 20.0,
+      "bio_reference_range": "100",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 1060009.0,
+      "bio_reference_range": "Printed On1i",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "S",
+      "test_value": 24.0,
+      "bio_reference_range": "U-02",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "U",
+      "test_value": 8.0,
+      "bio_reference_range": "SHOAPEZUISPTCIOGISS",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

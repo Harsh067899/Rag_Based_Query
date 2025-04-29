@@ -1,0 +1,107 @@
+{
+  "image": "BLR-0425-PA-0039192_E-PareshwarFinalBill_250427_1337@E.pdf_page_88.png",
+  "tests": [
+    {
+      "test_name": "BIER TDi oan ance AD any ISS",
+      "test_value": 8.0,
+      "bio_reference_range": "SEOREORS.",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "NSIS aAMNONESL",
+      "test_value": 71502107.0,
+      "bio_reference_range": "A108 105i Floor Acar walllower Takeo.",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "MCISA",
+      "test_value": 5.0,
+      "bio_reference_range": "6",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Lab Serial Nof",
+      "test_value": 7.0,
+      "bio_reference_range": "> = =    nog     me",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Ward No",
+      "test_value": 1.0,
+      "bio_reference_range": "SP -25",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 223.0,
+      "bio_reference_range": "/391503        a       ne       -            Date TAT",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "ee a",
+      "test_value": 8.0,
+      "bio_reference_range": "oe",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 7.0,
+      "bio_reference_range": "5",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "International Normalized Ratio         oh",
+      "test_value": 4.87,
+      "bio_reference_range": "7  i",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 0.0,
+      "bio_reference_range": "1",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 2.0,
+      "bio_reference_range": "t",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "in aortic position",
+      "test_value": 6.0,
+      "bio_reference_range": "=e nS",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "INR",
+      "test_value": 2.5,
+      "bio_reference_range": "-3.5",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "y",
+      "test_value": 7.0,
+      "bio_reference_range": "Mechanical prosthetic valves",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 1.0,
+      "bio_reference_range": "Le  Ps",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "+",
+      "test_value": 3.0,
+      "bio_reference_range": ".    -     .",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 7.0,
+      "bio_reference_range": "-",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

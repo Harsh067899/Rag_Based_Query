@@ -1,0 +1,174 @@
+{
+  "image_path": "G:\\Bajaj_finserv-DataScience\\lbmaske\\BLR-0425-PA-0039192_a044492e47444b7ca0f3e3bbe049ce2c_compressed_27-04-2025_0228-52_PM@E.pdf_page_76.png",
+  "comparison_time": "2025-04-29 12:36:33",
+  "tesseract": {
+    "success": true,
+    "test_count": 25,
+    "abnormal_count": 8,
+    "timing": {
+      "total_time": 3.623718738555908
+    }
+  },
+  "easyocr": {
+    "success": false,
+    "test_count": 0,
+    "abnormal_count": 0,
+    "timing": {}
+  },
+  "common_tests": [],
+  "tesseract_only": [
+    {
+      "test_name": "Is",
+      "test_value": 0.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Point Patho",
+      "test_value": 1.0,
+      "bio_reference_range": "ogy Labs",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "EQUIPPED WITH C",
+      "test_value": 0.0,
+      "bio_reference_range": "MPUTERISED AUT0 CHEMISTRY",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "st F",
+      "test_value": 1.0,
+      "bio_reference_range": "oor",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "SARV",
+      "test_value": 0.0,
+      "bio_reference_range": "DAYA H0SPITAL Dr.",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Investigation",
+      "test_value": 0.0,
+      "bio_reference_range": "bserved Va1ue Unit Bic1ogica1 Ref interva1",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "BI",
+      "test_value": 0.0,
+      "bio_reference_range": "CHEMISTRY",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "VER FUNCTI",
+      "test_value": 0.0,
+      "bio_reference_range": "N TEST",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "BILIRUBIN T",
+      "test_value": 0.0,
+      "bio_reference_range": "TAL o mg/d1 0.30- 1.20",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "BILIRUBIN)",
+      "test_value": 7.79,
+      "bio_reference_range": "H mafdb 0.00 - 0.30",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "UNC",
+      "test_value": 0.0,
+      "bio_reference_range": "NJUGATED",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "SG",
+      "test_value": 0.0,
+      "bio_reference_range": "T 162H IWIL 0.00 - 46.00",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "SGPT",
+      "test_value": 86.0,
+      "bio_reference_range": "H WL 0.00 - 49.00",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "ALKALINE PH",
+      "test_value": 0.0,
+      "bio_reference_range": "SPHATASE 396 H UA 42.00 - 128.00",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "TAL PR",
+      "test_value": 0.0,
+      "bio_reference_range": "TEIN 6.2 gnvd1 6.20- 8.00",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "ALBUMIN",
+      "test_value": 374.0,
+      "bio_reference_range": "gmid1 3.80 - 5.40",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "GL",
+      "test_value": 0.0,
+      "bio_reference_range": "BULIN 2.5 gmd1 1.50 - 3.60",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "WG RATI",
+      "test_value": 0.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "GAMMAT-GT",
+      "test_value": 263.0,
+      "bio_reference_range": "H IU/L 11.00 - 50.00",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "END",
+      "test_value": 0.0,
+      "bio_reference_range": "F REP0RT",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "F",
+      "test_value": 0.0,
+      "bio_reference_range": "R H0RM0NES ASSAYS",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "AB",
+      "test_value": 0.0,
+      "bio_reference_range": "VE MENTI0NED FINDINGS ARE A PR0FESSI0NAL JAND N0T A FINAL DIAGN0SIS",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "INVESTIGATI",
+      "test_value": 0.0,
+      "bio_reference_range": "N RESULTS ARE T0 BE C0RELATED CLINIC-PATH0L0GICALLY",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "T VAILD F",
+      "test_value": 0.0,
+      "bio_reference_range": "R LEGAL PURP0SE",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "CLINICAL C",
+      "test_value": 0.0,
+      "bio_reference_range": "RELATI0N IS MANDAT0RY",
+      "lab_test_out_of_range": false
+    }
+  ],
+  "easyocr_only": [],
+  "agreement_rate": 0.0,
+  "value_match_rate": 0.0
+}

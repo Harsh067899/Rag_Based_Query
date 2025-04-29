@@ -1,0 +1,89 @@
+{
+  "image": "BLR-0425-PA-0039930_E-BABY_OF_SIREESHA_BADVELU_2_250427_1048@E.pdf_page_11.png",
+  "tests": [
+    {
+      "test_name": "PatientL",
+      "test_value": 1.0,
+      "bio_reference_range": "CL... IL          ee ee",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 21.0,
+      "bio_reference_range": "-Apr-",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Service No",
+      "test_value": 1.0,
+      "bio_reference_range": "51411490",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Platelet count",
+      "test_value": 2.78,
+      "bio_reference_range": "2.1-5.0 Lakhs/Cumm    Impedance method",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Mean Cell Volume (MCV)",
+      "test_value": 106.7,
+      "bio_reference_range": "92-118 fl                Calculation",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Mean Cell Haemoglobin (MCH)",
+      "test_value": 36.1,
+      "bio_reference_range": "31-37 pg                Calculation",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Mean Cell Haemoglobin",
+      "test_value": 33.8,
+      "bio_reference_range": "29 - 47 g/L                Calculation",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "RDW",
+      "test_value": 16.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 58.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Lymphocytes",
+      "test_value": 26.0,
+      "bio_reference_range": "J  28-35",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "Eosinophils",
+      "test_value": 7.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Monocytes",
+      "test_value": 9.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Basophils",
+      "test_value": 0.0,
+      "bio_reference_range": "0-1",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 32101845.0,
+      "bio_reference_range": "Printed On",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

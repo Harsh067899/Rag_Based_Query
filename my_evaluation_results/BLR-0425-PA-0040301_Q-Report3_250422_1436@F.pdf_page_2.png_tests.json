@@ -1,0 +1,131 @@
+{
+  "image": "BLR-0425-PA-0040301_Q-Report3_250422_1436@F.pdf_page_2.png",
+  "tests": [
+    {
+      "test_name": "bs",
+      "test_value": 4630001.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 431218.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "HDU Phase-II                                                 Bed",
+      "test_value": 2320.0,
+      "bio_reference_range": "-02",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 21.0,
+      "bio_reference_range": "-Apr-2025 00",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "eGFR",
+      "test_value": 125.0,
+      "bio_reference_range": "mi/min/1.73",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "m",
+      "test_value": 4.0,
+      "bio_reference_range": "2",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 1.18,
+      "bio_reference_range": "mg/d",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 0.3,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Bilirubin Indirect (Calculated)",
+      "test_value": 0.88,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "IFCC-Without P-",
+      "test_value": 5.0,
+      "bio_reference_range": "P",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "ALT /SGPT (IFCC-Without P-",
+      "test_value": 5.0,
+      "bio_reference_range": "P",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "IFCC Amp",
+      "test_value": 79.0,
+      "bio_reference_range": "50 - 116",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 12.0,
+      "bio_reference_range": "<55",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 5.29,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 2.38,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Globulin (Calculated)",
+      "test_value": 2.91,
+      "bio_reference_range": "gm/d",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "G Ratio (Calculated)",
+      "test_value": 0.82,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Magnesium (Xylldyl",
+      "test_value": 3.1,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Test",
+      "test_value": 16.0,
+      "bio_reference_range": "seconds",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Mean Normal Prothrombin",
+      "test_value": 12.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "INR",
+      "test_value": 1.3,
+      "bio_reference_range": "6",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

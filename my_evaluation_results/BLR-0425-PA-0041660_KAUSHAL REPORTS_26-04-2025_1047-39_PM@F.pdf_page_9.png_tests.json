@@ -1,0 +1,89 @@
+{
+  "image": "BLR-0425-PA-0041660_KAUSHAL REPORTS_26-04-2025_1047-39_PM@F.pdf_page_9.png",
+  "tests": [
+    {
+      "test_name": "WINGS",
+      "test_value": 40.0,
+      "bio_reference_range": "6",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 1.0,
+      "bio_reference_range": "a a     AY HOSPITALS RESEARCH",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 57500.0,
+      "bio_reference_range": "4",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Ls                                     C",
+      "test_value": 343.0,
+      "bio_reference_range": "37 eii",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "PIN Noz",
+      "test_value": 57500.0,
+      "bio_reference_range": "1",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "MR",
+      "test_value": 65101615.0,
+      "bio_reference_range": "C",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 4.0,
+      "bio_reference_range": "2",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 1.0,
+      "bio_reference_range": "2",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "+",
+      "test_value": 51.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "EEN",
+      "test_value": 0.0,
+      "bio_reference_range": "98 ners ai",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "The NEL eat ca te een itemational normalized ratio (INR) ate HisaSures",
+      "test_value": 6.0,
+      "bio_reference_range": "the extrinsic patie OF coagulation",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Inhibitors (Inciedse-P",
+      "test_value": 2.0,
+      "bio_reference_range": "1",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 4.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "I",
+      "test_value": 7.0,
+      "bio_reference_range": "t",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

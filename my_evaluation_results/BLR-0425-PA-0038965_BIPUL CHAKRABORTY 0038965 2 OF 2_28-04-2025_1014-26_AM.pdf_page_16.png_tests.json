@@ -1,0 +1,71 @@
+{
+  "image": "BLR-0425-PA-0038965_BIPUL CHAKRABORTY 0038965 2 OF 2_28-04-2025_1014-26_AM.pdf_page_16.png",
+  "tests": [
+    {
+      "test_name": "+ Mr BIPULSCHAKRABORTY               yAGEISER -         era",
+      "test_value": 2.0,
+      "bio_reference_range": "Vear",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "PAGOCS",
+      "test_value": 250575.0,
+      "bio_reference_range": "703      4",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "isecorids",
+      "test_value": 0.8213,
+      "bio_reference_range": "3",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 2.0,
+      "bio_reference_range": "s",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "i wethod",
+      "test_value": 3.0,
+      "bio_reference_range": "Pholomettic Geshig assay.",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "EL",
+      "test_value": 8.0,
+      "bio_reference_range": "= iterating",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "BAPTIO TEST cca",
+      "test_value": 3.0,
+      "bio_reference_range": "g                   Seconds       Boe",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 2.03,
+      "bio_reference_range": "5",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "lsorders",
+      "test_value": 3.0,
+      "bio_reference_range": "Moderately. prolonged",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Noto",
+      "test_value": 7.0,
+      "bio_reference_range": "sf",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "SERRE BRR he ieee enaare",
+      "test_value": 200.03,
+      "bio_reference_range": "2",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

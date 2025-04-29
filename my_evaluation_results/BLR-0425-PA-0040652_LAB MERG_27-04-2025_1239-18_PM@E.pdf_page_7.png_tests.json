@@ -1,0 +1,47 @@
+{
+  "image": "BLR-0425-PA-0040652_LAB MERG_27-04-2025_1239-18_PM@E.pdf_page_7.png",
+  "tests": [
+    {
+      "test_name": "l",
+      "test_value": 2026238.0,
+      "bio_reference_range": "8",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "a",
+      "test_value": 4.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "gio Bf",
+      "test_value": 6.0,
+      "bio_reference_range": "uml                .",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Protiens",
+      "test_value": 2.0,
+      "bio_reference_range": "N",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "ENEGATIVE Sg",
+      "test_value": 0.0,
+      "bio_reference_range": "g He               .",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "-",
+      "test_value": 4.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 3.0,
+      "bio_reference_range": "EAB",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

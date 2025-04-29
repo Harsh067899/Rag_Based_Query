@@ -1,0 +1,119 @@
+{
+  "image": "AHD-0425-PA-0008061_E-mahendrasinghdischargecard_250427_1114@E.pdf_page_27.png",
+  "tests": [
+    {
+      "test_name": "eee Saal RIT    SD EX DATTA D",
+      "test_value": 7.0,
+      "bio_reference_range": "Res     Mohopada",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "-",
+      "test_value": 410.0,
+      "bio_reference_range": "/222",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "e",
+      "test_value": 124.0,
+      "bio_reference_range": "HOURS PATHOLOGY",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 3.0,
+      "bio_reference_range": "230425003                                     es ee",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 41.0,
+      "bio_reference_range": "3",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 45.0,
+      "bio_reference_range": "-55",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Volime(MCV)",
+      "test_value": 86.0,
+      "bio_reference_range": "7",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Hb Conc(MCHC)",
+      "test_value": 283.0,
+      "bio_reference_range": "5",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 41360.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 166.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Lymphocytes",
+      "test_value": 24.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 4.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 6.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Gount",
+      "test_value": 8976.0,
+      "bio_reference_range": "/camm",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Absolute Lymphocytes Count",
+      "test_value": 326.0,
+      "bio_reference_range": "4",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 81.0,
+      "bio_reference_range": "6",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 20.0,
+      "bio_reference_range": "-500",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "eseeaerhelei esa ataton/alechnical tent Route gt",
+      "test_value": 0.0,
+      "bio_reference_range": "arts fs fl eles biogntte Raul nan exe aro vunste aeoer",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Speciniend",
+      "test_value": 4.0,
+      "bio_reference_range": "s Laboratory Test result should be interpreted In correlation with clinical findingy.",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

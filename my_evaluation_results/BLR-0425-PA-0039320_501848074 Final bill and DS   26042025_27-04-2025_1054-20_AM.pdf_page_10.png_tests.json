@@ -1,0 +1,17 @@
+{
+  "image": "BLR-0425-PA-0039320_501848074 Final bill and DS   26042025_27-04-2025_1054-20_AM.pdf_page_10.png",
+  "tests": [
+    {
+      "test_name": "gga",
+      "test_value": 2.0,
+      "bio_reference_range": "s SSS nes 72 Pe ere   Bae",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 42.0,
+      "bio_reference_range": "S eS SF aaige-",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

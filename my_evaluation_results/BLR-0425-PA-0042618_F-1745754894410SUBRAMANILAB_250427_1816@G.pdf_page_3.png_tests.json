@@ -1,0 +1,191 @@
+{
+  "image": "BLR-0425-PA-0042618_F-1745754894410SUBRAMANILAB_250427_1816@G.pdf_page_3.png",
+  "tests": [
+    {
+      "test_name": "",
+      "test_value": 7.0,
+      "bio_reference_range": "BaTeN",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 27.0,
+      "bio_reference_range": "Apr 2025 08",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 27.0,
+      "bio_reference_range": "Apr 2025 10",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 27.0,
+      "bio_reference_range": "Apr 2025 09",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Plasma GLUCOSE - Random (Hexokinase)",
+      "test_value": 126.0,
+      "bio_reference_range": "mg/dl",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "SERUM BICARBONATE",
+      "test_value": 19.8,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "BUN (Urease/GLDH)",
+      "test_value": 4.9,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Jaffe)",
+      "test_value": 1.0,
+      "bio_reference_range": "mg/dl",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "eGFR",
+      "test_value": 93.7,
+      "bio_reference_range": "ml/min/1.73sq.m",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "SERUM SODIUM (Indirect ISE)",
+      "test_value": 137.0,
+      "bio_reference_range": "mmo1l/1",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "SERUM POTASSIUM (Indirect ISE)",
+      "test_value": 4.49,
+      "bio_reference_range": "mmo1l/1",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "SERUM CHLORIDE (Indirect ISE)",
+      "test_value": 101.1,
+      "bio_reference_range": "mmol/L",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Uricase)",
+      "test_value": 7.0,
+      "bio_reference_range": "mg/dl",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "SERUM CALCIUM (NM-BAPTA)",
+      "test_value": 9.52,
+      "bio_reference_range": "mg/dl",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "UV)",
+      "test_value": 3.03,
+      "bio_reference_range": "mg/dl",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "TOTAL CHOLESTEROL (CHOD/POD)",
+      "test_value": 171.0,
+      "bio_reference_range": "mg/dl",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 200.0,
+      "bio_reference_range": "-239",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 10.36,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "J Groff)",
+      "test_value": 5.38,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Biuret)",
+      "test_value": 7.2,
+      "bio_reference_range": "g/dl",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "SERUM ALBUMIN (BCG-dye)",
+      "test_value": 4.7,
+      "bio_reference_range": "g/dl",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "SERUM GLOBULIN",
+      "test_value": 2.5,
+      "bio_reference_range": "g/dl",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "ALB/GLOB (A/G) Ratio",
+      "test_value": 1.92,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "SGPT/ ALT (P",
+      "test_value": 5.0,
+      "bio_reference_range": "P",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "SGOT/ AST (P",
+      "test_value": 5.0,
+      "bio_reference_range": "P",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 129.0,
+      "bio_reference_range": "U/L",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "LDH (UV kinetic)",
+      "test_value": 287.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "CKD-EPI",
+      "test_value": 2009.0,
+      "bio_reference_range": "equation normalized tol.73 sq.m BSA and is not applicable to individuals",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "below",
+      "test_value": 18.0,
+      "bio_reference_range": "years. patients at extremes of muscle mass",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Bengaluru",
+      "test_value": 560017.0,
+      "bio_reference_range": ".",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "a",
+      "test_value": 560.0,
+      "bio_reference_range": "017",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

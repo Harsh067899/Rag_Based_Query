@@ -1,0 +1,71 @@
+{
+  "image": "BLR-0425-PA-0037318_SASHANK P K 0037318 2 OF 2_28-04-2025_1007-19_AM@E.pdf_page_20.png",
+  "tests": [
+    {
+      "test_name": "TAIGG",
+      "test_value": 2096807.0,
+      "bio_reference_range": "9",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "D/",
+      "test_value": 2.0,
+      "bio_reference_range": "G.-RAO",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 43.0,
+      "bio_reference_range": "6",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "ealeveiay",
+      "test_value": 2.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 15.0,
+      "bio_reference_range": "-98              e",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 233.0,
+      "bio_reference_range": "AOX3/mm 221504107",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "helps",
+      "test_value": 71.0,
+      "bio_reference_range": "d ihie",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "such",
+      "test_value": 8.0,
+      "bio_reference_range": "s",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "en",
+      "test_value": 99.0,
+      "bio_reference_range": "and 10",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Mindspace noad cachibiini tersbt Telangaiias",
+      "test_value": 371.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "US",
+      "test_value": 9999.0,
+      "bio_reference_range": "TG 1 994PTCO18352  oo",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "image": "BLR-0425-PA-0038965_BIPUL CHAKRABORTY 0038965 2 OF 2_28-04-2025_1014-26_AM.pdf_page_7.png",
+  "tests": [
+    {
+      "test_name": "-",
+      "test_value": 2.0,
+      "bio_reference_range": "Sce2 5",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Ge TAGHIOSI",
+      "test_value": 276.0,
+      "bio_reference_range": "G",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "ey oo Cd               -Report Datey     i     A",
+      "test_value": 203.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "iabiad Telangana-",
+      "test_value": 56003.0,
+      "bio_reference_range": "3",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

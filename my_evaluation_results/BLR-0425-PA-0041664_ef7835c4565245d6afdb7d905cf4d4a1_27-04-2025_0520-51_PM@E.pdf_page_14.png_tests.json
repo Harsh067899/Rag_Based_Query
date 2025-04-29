@@ -1,0 +1,71 @@
+{
+  "image": "BLR-0425-PA-0041664_ef7835c4565245d6afdb7d905cf4d4a1_27-04-2025_0520-51_PM@E.pdf_page_14.png",
+  "tests": [
+    {
+      "test_name": "",
+      "test_value": 1.0,
+      "bio_reference_range": "ie",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Admn         wy",
+      "test_value": 4202559914.0,
+      "bio_reference_range": "By    HIDRVIVER",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 0.0,
+      "bio_reference_range": "9",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "EDTABload",
+      "test_value": 411.0,
+      "bio_reference_range": "-7",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "p",
+      "test_value": 9.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 20.0,
+      "bio_reference_range": "/40",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "E",
+      "test_value": 696.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "(MG-",
+      "test_value": 326.0,
+      "bio_reference_range": "4",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "iPage",
+      "test_value": 2.06,
+      "bio_reference_range": "2",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "pied Bis",
+      "test_value": 322.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "TEST",
+      "test_value": 79.66,
+      "bio_reference_range": "rF CONG",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

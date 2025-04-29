@@ -1,0 +1,65 @@
+EXTRACTED TEXT:
+
+If Be ae NTOTEABSCIENCES yam                                               Se
+IN ae -eitroosy cS Sa                  1G.     is RG ape                     4 oo
+| BaNI _                  aeons tenet “      ans   “N   , = HEALTH”  ve  a pee
+yi: =z JDEPARTMENTIORLAB!SGienceg Ea, Ml
+iti  aids birse Marota:Stlvastavas~ oo       SSE es      _         aed)
+24°72                       MabiNo: "a SSS
+Her sip won (LSTA NPS1308876)           ELSA ORES Faces MUR
+Re saes ESS NTSECTIE, ce           eae irene: [isa           :
+Hagel eet) TH-SUZATTOSIRTH ELOORE            " Pepehaes necelvinig Date:[ 1238            ry
+‘Aganel Wars. rd]                   ees ee Report Datel [I sian:         !
+i Geneve                                               fa eS oy ere Le     STAM:           “3
+| jobs Nees  SEPRIVANKALVERNIR         ,    SEeeye Report Status! :Provisionayiataiat      i
+‘yest est ieStow result: CHS Crvcal High; :Cis>critical low:                                  -
+a                                                               1  {!
+7                                                                                      |
+i,                                 elds        le                                              ]
+                    "                                         it
+~           “|       a                                   |
+hl.                                                    i]
+ee ee  md ae hoes
+‘Nok is ep 816 Hep lias fo bees pata manegenien Daciopances iB SIEGIICG APMIS
+Wes Sens: "tbe repotied within three’ days for. correction: No: compensation Heb" a           [ }
+' SASS igr Bolt NOTROR MEDICOLEGAUPURPOSE 3. ec
+a       eS aaah Sr os ey Wee 484) Nees ie Ngee ee Sh cp esta as
+
+
+EXTRACTED LAB TESTS:
+
+Test Name: IN ae -eitroosy cS Sa
+Test Value: 1.0
+Reference Range: G.     is RG ape                     4 oo
+Out of Range: False
+--------------------------------------------------
+Test Name: Her sip won (LSTA NPS
+Test Value: 130887.0
+Reference Range: 6
+Out of Range: False
+--------------------------------------------------
+Test Name: 
+Test Value: 1238.0
+Reference Range: ry
+Out of Range: False
+--------------------------------------------------
+Test Name: a
+Test Value: 1.0
+Reference Range: 
+Out of Range: False
+--------------------------------------------------
+Test Name: Nok is ep
+Test Value: 816.0
+Reference Range: Hep lias fo bees pata manegenien Daciopances iB SIEGIICG APMIS
+Out of Range: False
+--------------------------------------------------
+Test Name: SASS igr Bolt NOTROR MEDICOLEGAUPURPOSE
+Test Value: 3.0
+Reference Range: ec
+Out of Range: False
+--------------------------------------------------
+Test Name: a       eS aaah Sr os ey Wee
+Test Value: 48.0
+Reference Range: 4
+Out of Range: False
+--------------------------------------------------

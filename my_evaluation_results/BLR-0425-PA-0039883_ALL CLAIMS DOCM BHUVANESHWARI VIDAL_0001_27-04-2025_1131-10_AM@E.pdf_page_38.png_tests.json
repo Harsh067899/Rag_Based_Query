@@ -1,0 +1,77 @@
+{
+  "image": "BLR-0425-PA-0039883_ALL CLAIMS DOCM BHUVANESHWARI VIDAL_0001_27-04-2025_1131-10_AM@E.pdf_page_38.png",
+  "tests": [
+    {
+      "test_name": "XK",
+      "test_value": 74.0,
+      "bio_reference_range": "kauvery",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "PHS",
+      "test_value": 5961.0,
+      "bio_reference_range": "4",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "ffitviollL",
+      "test_value": 815.0,
+      "bio_reference_range": "-6",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Chloride",
+      "test_value": 102.0,
+      "bio_reference_range": "livid",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "(Serum",
+      "test_value": 7700229402.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Os lucose Random (RBS)",
+      "test_value": 94.0,
+      "bio_reference_range": "mg/dl        70-140",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "/",
+      "test_value": 700220402.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "KMG+",
+      "test_value": 10286.0,
+      "bio_reference_range": "5",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "sds",
+      "test_value": 290.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Serum",
+      "test_value": 70022940.0,
+      "bio_reference_range": "2",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "KMC/",
+      "test_value": 102865.0,
+      "bio_reference_range": ".",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "OF HE REO eer rer TT",
+      "test_value": 21.0,
+      "bio_reference_range": "9",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

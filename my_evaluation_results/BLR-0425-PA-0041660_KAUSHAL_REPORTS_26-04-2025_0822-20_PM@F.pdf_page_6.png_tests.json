@@ -1,0 +1,35 @@
+{
+  "image": "BLR-0425-PA-0041660_KAUSHAL_REPORTS_26-04-2025_0822-20_PM@F.pdf_page_6.png",
+  "tests": [
+    {
+      "test_name": "Sample Collected At        (",
+      "test_value": 1.0,
+      "bio_reference_range": "2",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "KANNADAY",
+      "test_value": 57500.0,
+      "bio_reference_range": "4",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "MR",
+      "test_value": 651016.0,
+      "bio_reference_range": ".",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 11.0,
+      "bio_reference_range": "4",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "(C",
+      "test_value": 2.0,
+      "bio_reference_range": "leis",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

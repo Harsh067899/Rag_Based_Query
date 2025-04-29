@@ -1,0 +1,89 @@
+{
+  "image": "BLR-0425-PA-0039192_a044492e47444b7ca0f3e3bbe049ce2c_compressed_27-04-2025_0228-52_PM@E.pdf_page_76.png",
+  "tests": [
+    {
+      "test_name": "poe     Sn oe       Piss ON",
+      "test_value": 79001.0,
+      "bio_reference_range": "-20055",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "O",
+      "test_value": 1.0,
+      "bio_reference_range": "RI024 O7XIOSR109 ist hoor Agarwal. Tower RKELO.",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "BILIRUBIN TOTAL                             Ny",
+      "test_value": 1.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "BILIRUBIN)          AE ee     mgidL",
+      "test_value": 0.0,
+      "bio_reference_range": "- 0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "UNCONJUGATED (",
+      "test_value": 1.0,
+      "bio_reference_range": "D.BILIRUBIN",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 0.0,
+      "bio_reference_range": "- 46.00",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "-",
+      "test_value": 4.0,
+      "bio_reference_range": "9",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 338.0,
+      "bio_reference_range": "H",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "gmail",
+      "test_value": 6.2,
+      "bio_reference_range": "- 8.00",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "gmail",
+      "test_value": 3.8,
+      "bio_reference_range": "5.40",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "GLOBULIN                       an",
+      "test_value": 28.0,
+      "bio_reference_range": ".",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "j",
+      "test_value": 1.0,
+      "bio_reference_range": "-2.0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 263.0,
+      "bio_reference_range": "H      WIL           11.00 - 60.00",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "",
+      "test_value": 1.0,
+      "bio_reference_range": "Le",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "image": "BLR-0425-PA-0042670_F-NiyaAdwithaQueryReplied_250428_1045@G.pdf_page_6.png",
+  "tests": [
+    {
+      "test_name": "sa",
+      "test_value": 0.0,
+      "bio_reference_range": "ee",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "GW-",
+      "test_value": 301.0,
+      "bio_reference_range": "-07                  Received On",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 1.0,
+      "bio_reference_range": "b Division N                      .",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Lab  ivision No",
+      "test_value": 446.0,
+      "bio_reference_range": "/25               a         a",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Method",
+      "test_value": 7.0,
+      "bio_reference_range": ".",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 7.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "accredited with NABL vide Certificate-no MC-",
+      "test_value": 2851.0,
+      "bio_reference_range": "a",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

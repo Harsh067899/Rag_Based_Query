@@ -1,0 +1,173 @@
+{
+  "image": "BLR-0425-PA-0042494_Malathi_Sudheendra_LAB_26-04-2025_0923-40_PM@G.pdf_page_4.png",
+  "tests": [
+    {
+      "test_name": "",
+      "test_value": 72302128.0,
+      "bio_reference_range": "IP",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "WA/MBM -",
+      "test_value": 4.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "-",
+      "test_value": 5.1,
+      "bio_reference_range": ".2> AST",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "- IP",
+      "test_value": 7.0,
+      "bio_reference_range": "/CR25/84230",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 72301016.0,
+      "bio_reference_range": "IP",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "WA/MBM -",
+      "test_value": 4.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "RENAL PROFILE",
+      "test_value": 1.0,
+      "bio_reference_range": "Result Finalized Released Date",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "CALCIUM",
+      "test_value": 7.4,
+      "bio_reference_range": "mg/dl       Cord blood",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 6.2,
+      "bio_reference_range": "-11.0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "mg/diChildren (",
+      "test_value": 0.0,
+      "bio_reference_range": "-10 days",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Children (",
+      "test_value": 10.0,
+      "bio_reference_range": "days-2 years",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "mg/diChildren (",
+      "test_value": 2.0,
+      "bio_reference_range": "-12 years",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "mg/diChildren (",
+      "test_value": 12.0,
+      "bio_reference_range": "-18 years",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "mg/dL Adults (",
+      "test_value": 18.0,
+      "bio_reference_range": "-60 years",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "mg/dLAdults (",
+      "test_value": 60.0,
+      "bio_reference_range": "-90 years",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 90.0,
+      "bio_reference_range": "years",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "e-",
+      "test_value": 78.0,
+      "bio_reference_range": "fama Pees me",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "CALCIUM",
+      "test_value": 7.4,
+      "bio_reference_range": "mg/dl       Cord blood",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 6.2,
+      "bio_reference_range": "-11.0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "mg/diChildren (",
+      "test_value": 0.0,
+      "bio_reference_range": "-10 days",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Children (",
+      "test_value": 10.0,
+      "bio_reference_range": "days-2 years",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "mg/diChildren (",
+      "test_value": 2.0,
+      "bio_reference_range": "-12 years",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "mg/diChildren (",
+      "test_value": 12.0,
+      "bio_reference_range": "-18 years",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "mg/dL Adults (",
+      "test_value": 18.0,
+      "bio_reference_range": "-60 years",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "mg/dLAdults (",
+      "test_value": 60.0,
+      "bio_reference_range": "-90 years",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 90.0,
+      "bio_reference_range": "years",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "fe",
+      "test_value": 78.0,
+      "bio_reference_range": "famot/n Peeemei",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "C",
+      "test_value": 400.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

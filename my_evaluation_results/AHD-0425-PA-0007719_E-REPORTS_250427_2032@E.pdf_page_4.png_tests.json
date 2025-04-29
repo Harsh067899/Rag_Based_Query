@@ -1,0 +1,77 @@
+{
+  "image": "AHD-0425-PA-0007719_E-REPORTS_250427_2032@E.pdf_page_4.png",
+  "tests": [
+    {
+      "test_name": "Bal S Nadhavkal",
+      "test_value": 3.0,
+      "bio_reference_range": "S",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "age",
+      "test_value": 7.0,
+      "bio_reference_range": "computense",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "oe          qi",
+      "test_value": 1.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "ne    Bele",
+      "test_value": 2.0,
+      "bio_reference_range": "el         ay ee     Pa    Fa ios  AR      Ry",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "C",
+      "test_value": 8.0,
+      "bio_reference_range": "Tine  a oe",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 267.8,
+      "bio_reference_range": "IH",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 2.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "to-",
+      "test_value": 8.0,
+      "bio_reference_range": "weeks",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 32.0,
+      "bio_reference_range": "2.8.mg/L.",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "BA",
+      "test_value": 20.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "f                      -",
+      "test_value": 2.0,
+      "bio_reference_range": "edgy",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "iy",
+      "test_value": 80.0,
+      "bio_reference_range": "Oo   .                oh",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

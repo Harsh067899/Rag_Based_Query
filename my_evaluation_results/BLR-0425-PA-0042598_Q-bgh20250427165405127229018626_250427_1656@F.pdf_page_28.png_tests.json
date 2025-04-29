@@ -1,0 +1,107 @@
+{
+  "image": "BLR-0425-PA-0042598_Q-bgh20250427165405127229018626_250427_1656@F.pdf_page_28.png",
+  "tests": [
+    {
+      "test_name": "BHRG                                                                                                                                                              fy      (",
+      "test_value": 3.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 2.0,
+      "bio_reference_range": "a  A",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 5.0,
+      "bio_reference_range": "4",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "(",
+      "test_value": 73.0,
+      "bio_reference_range": "1",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 5605934.0,
+      "bio_reference_range": "mo oo",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "ADMIT-",
+      "test_value": 1014665.0,
+      "bio_reference_range": "a",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 0.0,
+      "bio_reference_range": "Dr. MAHAK BHANDARI                        Reported =",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Ward              + ICCU -",
+      "test_value": 3.0,
+      "bio_reference_range": "F",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 13471.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 5605934.0,
+      "bio_reference_range": "a",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "ADMIT-",
+      "test_value": 1014665.0,
+      "bio_reference_range": "a",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 0.0,
+      "bio_reference_range": "Dr. MAHAK BHANDARI                        Reported =",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Ward              + ICCU -",
+      "test_value": 3.0,
+      "bio_reference_range": "F",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 13471.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 5605934.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "+",
+      "test_value": 0.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Ward              +",
+      "test_value": 222.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

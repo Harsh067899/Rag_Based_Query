@@ -1,0 +1,41 @@
+{
+  "image": "BLR-0425-PA-0041660_KAUSHAL REPORTS_27-04-2025_1009-13_AM@E.pdf_page_10.png",
+  "tests": [
+    {
+      "test_name": "WINGS",
+      "test_value": 40.0,
+      "bio_reference_range": "6",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 1.0,
+      "bio_reference_range": "04-44-95",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "KANNADA See",
+      "test_value": 575004.0,
+      "bio_reference_range": "Co",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "UHID EMR",
+      "test_value": 651016.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 8.0,
+      "bio_reference_range": "6",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "oN (Rinatic Alkalin Pierats)",
+      "test_value": 3.0,
+      "bio_reference_range": "J eee eT ee ccieaven",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "image": "BLR-0425-PA-0042555_F-KYC_PC_VAMSI_MOHANA_JAKKINAPALLI_1_250427_1354@G.pdf_page_18.png",
+  "tests": [
+    {
+      "test_name": "q",
+      "test_value": 0.0,
+      "bio_reference_range": "Cd",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "MHO",
+      "test_value": 1579265.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "(Strip Double Indicator)",
+      "test_value": 8.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Specific Gravity(Ionic Conceration)",
+      "test_value": 1.015,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "WBC/Pus Cells",
+      "test_value": 4.0,
+      "bio_reference_range": "-6 /hpft",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Red Blood Cells                          NIL                 (",
+      "test_value": 1.0,
+      "bio_reference_range": "-2",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Epithelial Cells",
+      "test_value": 1.0,
+      "bio_reference_range": "-2 /hpft",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "d",
+      "test_value": 4.0,
+      "bio_reference_range": "2",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "WBC Count (TC)",
+      "test_value": 9000.0,
+      "bio_reference_range": "/cu.mm",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "RBC Count",
+      "test_value": 5.15,
+      "bio_reference_range": "million/cu.mm",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Haemoglobin",
+      "test_value": 15.0,
+      "bio_reference_range": "g/dl",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 42.6,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "McV",
+      "test_value": 82.6,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "MCH",
+      "test_value": 29.1,
+      "bio_reference_range": "Pg",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "MCHC",
+      "test_value": 35.2,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Platelet Count",
+      "test_value": 242000.0,
+      "bio_reference_range": "/ ca.mm",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "RDW (CV)",
+      "test_value": 13.2,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Neutrophils",
+      "test_value": 55.1,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Lymphocytes",
+      "test_value": 36.9,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Monocytes",
+      "test_value": 5.6,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Eosinophils",
+      "test_value": 1.8,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Basophils",
+      "test_value": 0.6,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Jaffe)",
+      "test_value": 0.84,
+      "bio_reference_range": "mg/dl",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "eGFR (Calculated)",
+      "test_value": 105.7,
+      "bio_reference_range": "ml/min/1.73sq.m",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "eGFR which is primarily based on Serum Creatinine is a derivation of CKD-EPI",
+      "test_value": 200.0,
+      "bio_reference_range": "9",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "m BSA and is not applicable to individuals below",
+      "test_value": 18.0,
+      "bio_reference_range": "years",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

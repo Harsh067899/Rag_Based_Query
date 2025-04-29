@@ -1,0 +1,89 @@
+{
+  "image": "BLR-0425-PA-0040326_Lab Report Sunita_27-04-2025_0131-15_PM@G.pdf_page_11.png",
+  "tests": [
+    {
+      "test_name": "assg",
+      "test_value": 7.0,
+      "bio_reference_range": "P",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "IC-",
+      "test_value": 1.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "SERUM BILIRUBIN",
+      "test_value": 2.0,
+      "bio_reference_range": "an",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 2.0,
+      "bio_reference_range": "ia",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "mg/dl",
+      "test_value": 2.0,
+      "bio_reference_range": "O.1-0.8",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "",
+      "test_value": 10.8,
+      "bio_reference_range": "7",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "STO       TOE",
+      "test_value": 555.0,
+      "bio_reference_range": "5",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "preset ray HVA Zs",
+      "test_value": 60.0,
+      "bio_reference_range": "-80.",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "midi",
+      "test_value": 315.0,
+      "bio_reference_range": "-5",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 7.0,
+      "bio_reference_range": "fees 7 2895 ee Er aemi/dl",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Rep",
+      "test_value": 16.0,
+      "bio_reference_range": "9",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 2.0,
+      "bio_reference_range": "i",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "SHEE Thls Report Ie ot Vala for Medico Lgal PUTBOSENA WANN Nisaicaiaversed (caaeesensonerrepeseer wenraeenc",
+      "test_value": 7.0,
+      "bio_reference_range": "REO ATED Ate",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": ")",
+      "test_value": 79037452.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

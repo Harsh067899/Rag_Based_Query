@@ -1,0 +1,53 @@
+{
+  "image": "CHE-0425-PA-0012251_Q-1745740582093MNJUQR_250427_1329@F.pdf_page_62.png",
+  "tests": [
+    {
+      "test_name": "",
+      "test_value": 1299829.0,
+      "bio_reference_range": "..         cenee              1 tt",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Fa              nl   BR eee (ase coe tracy nea SHES",
+      "test_value": 2.0,
+      "bio_reference_range": "rae",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 1.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "y                               UT fl anTeRAL pco",
+      "test_value": 2.0,
+      "bio_reference_range": "tetoat",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "et",
+      "test_value": 14.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "AAT",
+      "test_value": 4.0,
+      "bio_reference_range": "Eh                               yoy",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "bee eS",
+      "test_value": 1.0,
+      "bio_reference_range": "x",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "igre ap STROM Een REE TITS",
+      "test_value": 9.0,
+      "bio_reference_range": "/23/2025",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab Report Analyzer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        .container {
+            border: 1px solid #ddd;
+            padding: 20px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        .result-container {
+            display: none;
+            border: 1px solid #ddd;
+            padding: 20px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        button {
+            background-color: #3498db;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        button:hover {
+            background-color: #2980b9;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        tr.out-of-range {
+            background-color: #ffecec;
+        }
+        .loading {
+            display: none;
+            text-align: center;
+            margin: 20px 0;
+        }
+        #jsonResult {
+            background-color: #f5f5f5;
+            padding: 10px;
+            border-radius: 5px;
+            white-space: pre-wrap;
+            display: none;
+            max-height: 300px;
+            overflow-y: auto;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Lab Report Analyzer</h1>
+    
+    <div class="container">
+        <form id="uploadForm">
+            <div class="form-group">
+                <label for="imageFile">Upload Lab Report Image:</label>
+                <input type="file" id="imageFile" name="file" accept="image/*" required>
+            </div>
+            <button type="submit">Process Lab Report</button>
+        </form>
+        
+        <div class="loading" id="loading">
+            <p>Processing image, please wait...</p>
+        </div>
+    </div>
+    
+    <div class="result-container" id="resultContainer">
+        <h2>Lab Test Results</h2>
+        <div id="results">
+            <table id="resultsTable">
+                <thead>
+                    <tr>
+                        <th>Test Name</th>
+                        <th>Value</th>
+                        <th>Reference Range</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody id="resultsBody">
+                </tbody>
+            </table>
+        </div>
+        
+        <div>
+            <button id="showJsonBtn">Show Raw JSON</button>
+            <pre id="jsonResult"></pre>
+        </div>
+    </div>
+    
+    <script>
+        document.getElementById('uploadForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+            
+            const fileInput = document.getElementById('imageFile');
+            const file = fileInput.files[0];
+            
+            if (!file) {
+                alert('Please select an image file');
+                return;
+            }
+            
+            // Show loading message
+            document.getElementById('loading').style.display = 'block';
+            document.getElementById('resultContainer').style.display = 'none';
+            
+            const formData = new FormData();
+            formData.append('file', file);
+            
+            try {
+                const response = await fetch('/process', {
+                    method: 'POST',
+                    body: formData
+                });
+                
+                const result = await response.json();
+                
+                // Hide loading
+                document.getElementById('loading').style.display = 'none';
+                
+                if (result.is_success) {
+                    // Display results
+                    displayResults(result);
+                } else {
+                    alert('Error: ' + (result.error || 'Unknown error processing image'));
+                }
+            } catch (error) {
+                document.getElementById('loading').style.display = 'none';
+                alert('Error processing request: ' + error.message);
+            }
+        });
+        
+        function displayResults(result) {
+            const resultContainer = document.getElementById('resultContainer');
+            const resultsBody = document.getElementById('resultsBody');
+            const jsonResult = document.getElementById('jsonResult');
+            
+            // Clear previous results
+            resultsBody.innerHTML = '';
+            
+            // Add result rows
+            if (result.data && result.data.length > 0) {
+                result.data.forEach(test => {
+                    const row = document.createElement('tr');
+                    if (test.lab_test_out_of_range) {
+                        row.classList.add('out-of-range');
+                    }
+                    
+                    row.innerHTML = `
+                        <td>${test.test_name}</td>
+                        <td>${test.test_value}</td>
+                        <td>${test.bio_reference_range}</td>
+                        <td>${test.lab_test_out_of_range ? 'Out of Range' : 'Normal'}</td>
+                    `;
+                    
+                    resultsBody.appendChild(row);
+                });
+                
+                // Store raw JSON
+                jsonResult.textContent = JSON.stringify(result, null, 2);
+                
+                // Show results
+                resultContainer.style.display = 'block';
+            } else {
+                resultsBody.innerHTML = '<tr><td colspan="4">No lab tests found in the image</td></tr>';
+                resultContainer.style.display = 'block';
+            }
+        }
+        
+        // Toggle JSON display
+        document.getElementById('showJsonBtn').addEventListener('click', function() {
+            const jsonResult = document.getElementById('jsonResult');
+            if (jsonResult.style.display === 'block') {
+                jsonResult.style.display = 'none';
+                this.textContent = 'Show Raw JSON';
+            } else {
+                jsonResult.style.display = 'block';
+                this.textContent = 'Hide Raw JSON';
+            }
+        });
+    </script>
+</body>
+</html> 

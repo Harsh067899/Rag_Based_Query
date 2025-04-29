@@ -1,0 +1,179 @@
+{
+  "image": "BLR-0425-PA-0042483_Q-CamScanner0428202511.39_250428_1144@F.pdf_page_8.png",
+  "tests": [
+    {
+      "test_name": "Be                                             wet cae",
+      "test_value": 3.0,
+      "bio_reference_range": "ollected Ati",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "/",
+      "test_value": 1.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "/",
+      "test_value": 1.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "ES",
+      "test_value": 25.0,
+      "bio_reference_range": "a Youre",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "es",
+      "test_value": 7.0,
+      "bio_reference_range": "EY BatlcTOOy     OUNT",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "aiid",
+      "test_value": 6.0,
+      "bio_reference_range": "11",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 9.0,
+      "bio_reference_range": "6",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "-",
+      "test_value": 9.0,
+      "bio_reference_range": "6",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 1.0,
+      "bio_reference_range": "8",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 707.0,
+      "bio_reference_range": ".                     meri",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 79.7,
+      "bio_reference_range": "en        127-32",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "",
+      "test_value": 5.0,
+      "bio_reference_range": "gram",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "ran RBC Histogram)",
+      "test_value": 2.0,
+      "bio_reference_range": "6",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 5.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 41455.0,
+      "bio_reference_range": ".                  esdenn",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "-         a",
+      "test_value": 0.0,
+      "bio_reference_range": "EE",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 2694.0,
+      "bio_reference_range": "6",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "poids (Calcalated  -     Be gt",
+      "test_value": 7.0,
+      "bio_reference_range": "491.0.                      on      aes 8625",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Upto",
+      "test_value": 8625.0,
+      "bio_reference_range": "Ce Ee     .",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "S",
+      "test_value": 4.0,
+      "bio_reference_range": "Chiculated",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Pabsoure neuyopiis count",
+      "test_value": 2.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "erg z",
+      "test_value": 106.0,
+      "bio_reference_range": "6",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "SE ee eee co mened y",
+      "test_value": 1353.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "rE) Beare impedance ina",
+      "test_value": 1.0,
+      "bio_reference_range": "d",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "a",
+      "test_value": 3.0,
+      "bio_reference_range": "=",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Steen eases method)",
+      "test_value": 0.6,
+      "bio_reference_range": ".       .        .     jothromiemormnocytic hypechromic..      i a",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "eases een No evidence of haemolys eens",
+      "test_value": 2.0,
+      "bio_reference_range": "RR",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 5.0,
+      "bio_reference_range": "i",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "ae ee  gn m",
+      "test_value": 1.0,
+      "bio_reference_range": "rater went ot eer Te NS SAE Dr. Ba PATHOLOGIST",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

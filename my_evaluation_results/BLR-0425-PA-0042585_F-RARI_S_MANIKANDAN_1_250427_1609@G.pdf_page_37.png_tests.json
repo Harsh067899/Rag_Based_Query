@@ -1,0 +1,95 @@
+{
+  "image": "BLR-0425-PA-0042585_F-RARI_S_MANIKANDAN_1_250427_1609@G.pdf_page_37.png",
+  "tests": [
+    {
+      "test_name": "RDW (sheath flow DC",
+      "test_value": 13.7,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "-Platelet Count (sheath flow",
+      "test_value": 299.0,
+      "bio_reference_range": "150-400                 26-Apr-2025 03",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "MPV (sheath flow DC",
+      "test_value": 9.2,
+      "bio_reference_range": "fL                  7.80-11                  25-Apr-2025 09",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "-Apr-",
+      "test_value": 2025.0,
+      "bio_reference_range": "09",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Glucose Random (Hexokinase",
+      "test_value": 99.0,
+      "bio_reference_range": "mg/dL              Normal range 70        25-Apr-2025 10",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "method)                                                                  -",
+      "test_value": 140.0,
+      "bio_reference_range": "mg/dl",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 26.0,
+      "bio_reference_range": "-Apr-2025 03",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "st week",
+      "test_value": 710.0,
+      "bio_reference_range": "-30",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 30.0,
+      "bio_reference_range": "-",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 100.0,
+      "bio_reference_range": "-",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 1000.0,
+      "bio_reference_range": "-",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "-",
+      "test_value": 3.0,
+      "bio_reference_range": "months",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "-",
+      "test_value": 3.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "-",
+      "test_value": 1.0,
+      "bio_reference_range": "5",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "CRP (Immunoturbidimetric",
+      "test_value": 14.5,
+      "bio_reference_range": "mg/L             0-5                       25-Apr-2025 10",
+      "lab_test_out_of_range": true
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "image": "BLR-0425-PA-0040749_F-RAJU_GODUGULA_1_250422_1924@G.pdf_page_24.png",
+  "tests": [
+    {
+      "test_name": "/ umrss",
+      "test_value": 96.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Bill Date",
+      "test_value": 22.0,
+      "bio_reference_range": "-Apr-25 08",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "SGPT/ALT",
+      "test_value": 13.0,
+      "bio_reference_range": "0-50 U/L                 UV WITHOUT PSP",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "SGOT/AST",
+      "test_value": 26.0,
+      "bio_reference_range": "0-50 U/L                 UV WITHOUT P5P",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Alkaline Phosphatase",
+      "test_value": 169.0,
+      "bio_reference_range": "30-120 U/L              PNPP AMP BUFFER",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "TOTAL PROTEIN",
+      "test_value": 5.8,
+      "bio_reference_range": "6.3-8.2 gm/dl            BIURET",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "ALBUMIN",
+      "test_value": 3.5,
+      "bio_reference_range": "3.5-5.2 g/dl              BROMOCRESOL GREEN",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Globulin",
+      "test_value": 2.3,
+      "bio_reference_range": "2.0-3.5 gm/dl            Calculation",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "A/G Ratio",
+      "test_value": 1.5,
+      "bio_reference_range": "2",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "CRP",
+      "test_value": 2.6,
+      "bio_reference_range": "0-6.0 mg/L               LATEX PARTICLE",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Calcium",
+      "test_value": 75.0,
+      "bio_reference_range": "8.8- 10.6 mg/dl          ARSENAZO",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "Phosphorous",
+      "test_value": 2.9,
+      "bio_reference_range": "2.5-4.5 mg/dl            PHOSPOMOLYBDATE",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Magnesium",
+      "test_value": 2.06,
+      "bio_reference_range": "1.8-2.6 mg/dl            XYLIDYL BLUE",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Procalcitonin",
+      "test_value": 0.861,
+      "bio_reference_range": "Low Risk for Sepsis",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "interpretation",
+      "test_value": 1.0,
+      "bio_reference_range": "PCT is the prohormone of calcitonin secreted",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "returns to normal with half life of",
+      "test_value": 24.0,
+      "bio_reference_range": "hours",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "at least",
+      "test_value": 8.0,
+      "bio_reference_range": "-hour wait",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 0.5,
+      "bio_reference_range": "ng/ml.",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 2.0,
+      "bio_reference_range": "ng/ml.",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 41011329.0,
+      "bio_reference_range": "Printed On",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

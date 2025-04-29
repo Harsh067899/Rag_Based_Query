@@ -1,0 +1,71 @@
+{
+  "image": "BLR-0425-PA-0040749_G RAJU_27-04-2025_1103-55_PM.pdf_page_42.png",
+  "tests": [
+    {
+      "test_name": "",
+      "test_value": 232.0,
+      "bio_reference_range": "Apr25 04203/PME",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "-Jant-",
+      "test_value": 19.0,
+      "bio_reference_range": "/12",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Dates H",
+      "test_value": 23.0,
+      "bio_reference_range": "-Apre25 SS",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "po",
+      "test_value": 2.0,
+      "bio_reference_range": "s              rf                ih aie 0 -... Eevee looloknimig",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "cE                          ast        B",
+      "test_value": 15.0,
+      "bio_reference_range": "<isghimovl",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "ipOvHbe",
+      "test_value": 1183.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "tes",
+      "test_value": 23.0,
+      "bio_reference_range": "6",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "ctO",
+      "test_value": 2.0,
+      "bio_reference_range": "e",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "/",
+      "test_value": 4106000.0,
+      "bio_reference_range": "8",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 530.0,
+      "bio_reference_range": "012",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 891.0,
+      "bio_reference_range": "-38",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

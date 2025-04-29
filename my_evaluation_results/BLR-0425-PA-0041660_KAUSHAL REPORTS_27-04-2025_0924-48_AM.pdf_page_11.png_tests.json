@@ -1,0 +1,59 @@
+{
+  "image": "BLR-0425-PA-0041660_KAUSHAL REPORTS_27-04-2025_0924-48_AM.pdf_page_11.png",
+  "tests": [
+    {
+      "test_name": "WINGS",
+      "test_value": 40.0,
+      "bio_reference_range": "6",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 57500.0,
+      "bio_reference_range": "4",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "(",
+      "test_value": 0.0,
+      "bio_reference_range": "8",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "PIN Noz",
+      "test_value": 575001.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "UHID",
+      "test_value": 2.0,
+      "bio_reference_range": "MR651016",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Fe",
+      "test_value": 87.0,
+      "bio_reference_range": "etree eee eerie et",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Such as the lupus aniicoagulant (LA) yeh",
+      "test_value": 2.0,
+      "bio_reference_range": "ym seen sey oan",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "oot rsultor Ses eee abso Isnt Heparin Therapeutic Range-in",
+      "test_value": 6388.0,
+      "bio_reference_range": "of Ronllorng pal",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "byte       i     Wiech nie bitoni",
+      "test_value": 2.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

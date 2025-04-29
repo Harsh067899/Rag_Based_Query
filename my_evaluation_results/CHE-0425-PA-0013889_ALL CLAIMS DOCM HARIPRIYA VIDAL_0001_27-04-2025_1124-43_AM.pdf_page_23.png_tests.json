@@ -1,0 +1,77 @@
+{
+  "image": "CHE-0425-PA-0013889_ALL CLAIMS DOCM HARIPRIYA VIDAL_0001_27-04-2025_1124-43_AM.pdf_page_23.png",
+  "tests": [
+    {
+      "test_name": "(UHI Pip ipHsoo",
+      "test_value": 0.0,
+      "bio_reference_range": "ss6700py",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "ReportDate",
+      "test_value": 3.0,
+      "bio_reference_range": "Jo7s43",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "CIMINO TURIN ge",
+      "test_value": 56248040.0,
+      "bio_reference_range": "-Final",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "KMC",
+      "test_value": 10286.0,
+      "bio_reference_range": "5",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "bee",
+      "test_value": 7.0,
+      "bio_reference_range": "Biochemistry",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 1330.0,
+      "bio_reference_range": "mmol/L-        136-145",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "",
+      "test_value": 3.5,
+      "bio_reference_range": "-5",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 11.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Serum",
+      "test_value": 770023158.0,
+      "bio_reference_range": "4",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 10286.0,
+      "bio_reference_range": "5",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "esiichurchsHosurstamil Neduio",
+      "test_value": 35.0,
+      "bio_reference_range": "105 ee",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "e entels",
+      "test_value": 4344070.0,
+      "bio_reference_range": "> LEMON eee ee",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

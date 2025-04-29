@@ -1,0 +1,179 @@
+{
+  "image": "BLR-0425-PA-0040880_E-1745741621426SUSHILADEVIds_250427_1347@E.pdf_page_2.png",
+  "tests": [
+    {
+      "test_name": "",
+      "test_value": 1.0,
+      "bio_reference_range": "l",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "iO",
+      "test_value": 6.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Platelet Count",
+      "test_value": 197000.0,
+      "bio_reference_range": "/cu.mm         150000 - 400000",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Neutrophils",
+      "test_value": 68.8,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Lymphocytes",
+      "test_value": 16.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Eosinophils",
+      "test_value": 8.1,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Basophils",
+      "test_value": 0.4,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Monocytes",
+      "test_value": 6.7,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "RDW",
+      "test_value": 13.9,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "IPF",
+      "test_value": 20.1,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Neutrophil Absolute",
+      "test_value": 6288.3,
+      "bio_reference_range": "/cumm         2000.0 - 7000.0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Lymphocyte Absolute",
+      "test_value": 1462.4,
+      "bio_reference_range": "/cumm          1000.0 - 3000.0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Monocyte Absolute",
+      "test_value": 612.4,
+      "bio_reference_range": "/cumm         200.0 - 1000.0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Eosinophil Absolute",
+      "test_value": 740.3,
+      "bio_reference_range": "/cumm          40.0 - 440.0",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "Basophil Absolute",
+      "test_value": 36.6,
+      "bio_reference_range": "/cumm         20.0 - 100.0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Ss",
+      "test_value": 0.0,
+      "bio_reference_range": "7",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 23.0,
+      "bio_reference_range": "mmol/L           22.0 - 29.0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "SERUM SODIUM (Indirect ISE)",
+      "test_value": 143.0,
+      "bio_reference_range": "mmol/l           135.0 - 145.0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "SERUM POTASSIUM (Indirect ISE)",
+      "test_value": 3.48,
+      "bio_reference_range": "mmol/l           3.50 - 5.10",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "SERUM CHLORIDE (ISE / IMT)",
+      "test_value": 103.2,
+      "bio_reference_range": "mmol/L          98.0 - 107.0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Blood Urea Nitrogen (Urease/GLDH)",
+      "test_value": 9.1,
+      "bio_reference_range": "ma/dl             6.00 - 20.00",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Jaffe)",
+      "test_value": 0.72,
+      "bio_reference_range": "ma/dl            0.60 - 1.40",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "GLUCOSE- Random (Hexokinase)",
+      "test_value": 131.0,
+      "bio_reference_range": "ma/dl            70 - 140",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "eGFR",
+      "test_value": 92.0,
+      "bio_reference_range": "ml/min/1.73sq.m >60.0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Ss",
+      "test_value": 2.0,
+      "bio_reference_range": "3",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "INR",
+      "test_value": 0.9,
+      "bio_reference_range": "4",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Prothrombin Time Test",
+      "test_value": 12.2,
+      "bio_reference_range": "sec              11.4 - 15.2",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "PT CONTROL",
+      "test_value": 13.0,
+      "bio_reference_range": "sec",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "ISI Value",
+      "test_value": 1.08,
+      "bio_reference_range": "sec",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

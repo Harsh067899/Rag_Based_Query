@@ -1,84 +1,154 @@
-# RAG-based PDF Query System
+# Lab Report Processing API
 
-This project implements a Retrieval-Augmented Generation (RAG) system that allows users to upload multiple PDF files, extract and preprocess the text, and then query the contents of those PDFs using OpenAI's GPT-3.5-turbo model. The system combines the strengths of information retrieval and text generation to provide accurate and context-aware responses to user queries.
+A FastAPI-based service for extracting lab test data from medical reports using OCR (Optical Character Recognition) and RAG (Retrieval-Augmented Generation).
 
-## Description
+## Features
 
-The RAG-based PDF Query System is designed to:
-1. **Extract Text from PDFs:** Utilize `pdfplumber` to accurately extract text from multiple PDF files.
-2. **Preprocess Text:** Clean and tokenize the extracted text for better processing.
-3. **Create a Knowledge Base:** Use TF-IDF vectorization to create a searchable knowledge base from the extracted text.
-4. **Retrieve Relevant Texts:** Retrieve the most relevant texts based on the user query using cosine similarity.
-5. **Generate Responses:** Use OpenAI's GPT-3.5-turbo model to generate responses based on the retrieved texts and user query.
+- Extract lab test names, values, and reference ranges from lab report images
+- Determine if test values are outside normal ranges
+- Compare performance of Tesseract OCR and EasyOCR
+- Analyze lab results using RAG (Retrieval-Augmented Generation)
+- User-friendly web interface with drag-and-drop functionality
+- RESTful API endpoints for integration with other systems
 
-### Key Components and Technologies Used
+## Demo
 
-- **Streamlit:** For building an interactive web application.
-- **pdfplumber:** For extracting text from PDF files.
-- **NLTK:** For text preprocessing tasks such as tokenization.
-- **Scikit-learn:** For TF-IDF vectorization and text retrieval.
-- **OpenAI GPT-3.5-turbo:** For generating context-aware responses to user queries.
+The application provides a user-friendly web interface:
 
-### Why This Project?
+1. Drag and drop a lab report image or click to browse
+2. Optionally enter a query about the lab results
+3. View the extracted lab tests in a table format
+4. See which values are abnormal (outside reference ranges)
+5. Get AI-powered analysis of your results via RAG
 
-- **Combining Retrieval and Generation:** The project combines information retrieval with advanced text generation, providing users with accurate and context-aware responses.
-- **Interactive Interface:** Streamlit offers an easy-to-use interface for uploading PDFs and querying their contents.
-- **Advanced Text Extraction:** `pdfplumber` ensures accurate extraction of text from PDFs, even from complex layouts.
-- **State-of-the-art Language Model:** OpenAI's GPT-3.5-turbo is one of the most advanced language models, ensuring high-quality responses.
-
-## How to Run
+## Installation
 
 ### Prerequisites
 
-- Python 3.7 or higher
-- OpenAI API Key (you can get it from the [OpenAI website](https://beta.openai.com/signup/))
+- Python 3.8 or higher
+- Tesseract OCR installed on your system
 
-### Installation
+#### Installing Tesseract OCR
 
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/your-username/rag-pdf-query-system.git
-    cd rag-pdf-query-system
-    ```
+On Windows:
+- Download and install from [UB-Mannheim/tesseract](https://github.com/UB-Mannheim/tesseract/wiki)
+- Add the installation directory to your PATH environment variable
 
-2. **Create a virtual environment and activate it:**
-    ```bash
-    python -m venv env
-    source env/bin/activate  # On Windows use `env\Scripts\activate`
-    ```
+On macOS:
+```bash
+brew install tesseract
+```
 
-3. **Install the required packages:**
-    ```bash
-    pip install -r requirements.txt
-    ```
+On Linux:
+```bash
+sudo apt-get install tesseract-ocr
+```
 
-4. **Download NLTK data:**
-    ```python
-    import nltk
-    nltk.download('punkt')
-    ```
+### Setup
 
-5. **Create a `.env` file in the project root directory:**
-    ```text
-    OPENAI_API_KEY=your_openai_api_key_here
-    ```
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/lab-report-processing.git
+cd lab-report-processing
+```
 
-### Running the Application
+2. Create a virtual environment:
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
 
-1. **Run the Streamlit application:**
-    ```bash
-    streamlit run app.py
-    ```
+3. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
 
-2. **Use the Application:**
-    - Open the URL provided by Streamlit (usually `http://localhost:8501`) in your web browser.
-    - Upload one or more PDF files.
-    - Enter your query in the input box.
-    - View the generated response based on the contents of the uploaded PDFs.
+4. Run the application:
+```bash
+python lab_report_api.py
+```
 
-### Notes
+5. Open your browser and go to `http://localhost:8000`
 
-- The progress bar in the Streamlit application provides real-time feedback during the PDF processing stages.
-- Ensure you have a stable internet connection to interact with the OpenAI API for generating responses.
+## API Documentation
 
-This project demonstrates the integration of various tools and libraries to create a powerful and interactive query system for PDF documents.
+### GET /
+
+The root endpoint serves the web interface.
+
+### POST /get-lab-tests
+
+Extract lab tests from an image.
+
+**Request:**
+- Content-Type: multipart/form-data
+- Body: file (image)
+
+**Response:**
+```json
+{
+  "is_success": true,
+  "data": [
+    {
+      "test_name": "BILIRUBIN TOTAL",
+      "test_value": 9.42,
+      "bio_reference_range": "0.30- 1.20",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "SGOT",
+      "test_value": 162,
+      "bio_reference_range": "0.00 - 46.00",
+      "lab_test_out_of_range": true
+    }
+  ]
+}
+```
+
+### POST /rag-lab-report
+
+Process a lab report image and analyze with RAG.
+
+**Request:**
+- Content-Type: multipart/form-data
+- Body:
+  - file (image)
+  - query (optional): A question about the lab results
+
+**Response:**
+```json
+{
+  "is_success": true,
+  "data": [...],
+  "rag_response": "The lab report shows elevated liver enzymes including SGOT (162) and SGPT (86), which are significantly above their normal ranges. This pattern suggests liver inflammation or damage..."
+}
+```
+
+## Project Structure
+
+- `lab_report_api.py` - FastAPI application
+- `lab_report_processor.py` - Tesseract OCR implementation
+- `easyocr_processor.py` - EasyOCR implementation
+- `compare_ocr.py` - Comparison of OCR engines
+- `enhance_ocr_output.py` - Enhanced formatting of OCR results
+- `templates/` - HTML templates for web interface
+- `static/` - Static files (CSS, images)
+
+## Improving Results
+
+To get better OCR results:
+1. Use high-resolution images
+2. Ensure good lighting and contrast
+3. Avoid skewed or rotated images
+4. Use images without handwritten text when possible
+
+## License
+
+MIT
+
+## Acknowledgements
+
+- [FastAPI](https://fastapi.tiangolo.com/)
+- [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
+- [EasyOCR](https://github.com/JaidedAI/EasyOCR)
+- [OpenCV](https://opencv.org/)

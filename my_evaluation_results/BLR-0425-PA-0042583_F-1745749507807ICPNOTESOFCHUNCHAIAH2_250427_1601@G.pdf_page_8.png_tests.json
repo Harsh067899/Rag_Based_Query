@@ -1,0 +1,59 @@
+{
+  "image": "BLR-0425-PA-0042583_F-1745749507807ICPNOTESOFCHUNCHAIAH2_250427_1601@G.pdf_page_8.png",
+  "tests": [
+    {
+      "test_name": "SQDF/NAMEE a",
+      "test_value": 0.0,
+      "bio_reference_range": "pRt Fae       2. REFe DOCTOR ORSGimN area AEs SSE",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "OO",
+      "test_value": 93.0,
+      "bio_reference_range": "YD00",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Wace need                     SCULNT PAUL EAE OID Sager    S",
+      "test_value": 2.0,
+      "bio_reference_range": "HienvE Ds          ON a4",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "nt        jesticetons sean",
+      "test_value": 2.0,
+      "bio_reference_range": "os                     Sie         SERS ERRLEEIMED         poraaibis.",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "UIDE",
+      "test_value": 9286277.0,
+      "bio_reference_range": "REONG-219603-43                               ORES ESS",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "",
+      "test_value": 5.0,
+      "bio_reference_range": "c",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 2.0,
+      "bio_reference_range": "s GMO ES cesemerme-esonererenemmanancil                 ages",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Uashasuesseogpeee eee Soe BL",
+      "test_value": 7.0,
+      "bio_reference_range": "ws",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Dela",
+      "test_value": 60.0,
+      "bio_reference_range": "23014100",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

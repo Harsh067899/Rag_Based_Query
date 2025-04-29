@@ -1,0 +1,155 @@
+{
+  "image": "CHE-0325-PA-0010741_AL REPORTS_25-04-2025_0346-49_PM@F.pdf_page_8.png",
+  "tests": [
+    {
+      "test_name": "BHRG                                                                                                               fy    (",
+      "test_value": 3.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 5.0,
+      "bio_reference_range": "4",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "(",
+      "test_value": 73.0,
+      "bio_reference_range": "1",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 5715623.0,
+      "bio_reference_range": "oOo. oOo",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "+ ADMIT-",
+      "test_value": 1007849.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 3536558.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Ward             + NICU -",
+      "test_value": 1.0,
+      "bio_reference_range": "F",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Serum",
+      "test_value": 11.8,
+      "bio_reference_range": "ma/dL                Adult 0.2 - 1.2",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "Serum",
+      "test_value": 0.9,
+      "bio_reference_range": "mg/dL                upto 0.3",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Serum",
+      "test_value": 10.9,
+      "bio_reference_range": "ma/dL             0.2-1.0",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "slightly less than (upto +/-",
+      "test_value": 0.3,
+      "bio_reference_range": "mg/dl",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 13323.0,
+      "bio_reference_range": "DR SANJANA AHUJA",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 5715623.0,
+      "bio_reference_range": "oOo. oOo                =",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "ADMIT-",
+      "test_value": 1007849.0,
+      "bio_reference_range": "a",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "+",
+      "test_value": 3541132.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Ward             + NICU -",
+      "test_value": 1.0,
+      "bio_reference_range": "F",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Serum",
+      "test_value": 12.1,
+      "bio_reference_range": "ma/dL                Adult 0.2 - 1.2",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "Serum",
+      "test_value": 0.7,
+      "bio_reference_range": "mg/dL                upto 0.3",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Serum",
+      "test_value": 11.4,
+      "bio_reference_range": "mg/dL             0.2-1.0",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "slightly less than (upto +/-",
+      "test_value": 0.3,
+      "bio_reference_range": "mg/dl",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 13323.0,
+      "bio_reference_range": "DR SANJANA AHUJA",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 5715623.0,
+      "bio_reference_range": "oOo. oOo",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "+ ADMIT-",
+      "test_value": 1007849.0,
+      "bio_reference_range": "LO",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 3544211.0,
+      "bio_reference_range": "Dr. HIMANSHU KELKAR                   Reported",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Ward             + NICU -",
+      "test_value": 1.0,
+      "bio_reference_range": "F",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

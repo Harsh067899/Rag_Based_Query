@@ -1,0 +1,101 @@
+{
+  "image": "BLR-0425-PA-0041313_F-sudhirpreauth_250424_1309@G.pdf_page_14.png",
+  "tests": [
+    {
+      "test_name": "",
+      "test_value": 7.0,
+      "bio_reference_range": "C",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "ron",
+      "test_value": 1.0,
+      "bio_reference_range": "Ca",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "bora",
+      "test_value": 2.0,
+      "bio_reference_range": "tiss-RMi",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "y",
+      "test_value": 2.0,
+      "bio_reference_range": "s05s tj",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "PiQ",
+      "test_value": 8.0,
+      "bio_reference_range": "B2025",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 4.0,
+      "bio_reference_range": "a",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Ms        -",
+      "test_value": 40.0,
+      "bio_reference_range": "5",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 2.0,
+      "bio_reference_range": "1",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "calentatea",
+      "test_value": 139.0,
+      "bio_reference_range": "he        11",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 18.0,
+      "bio_reference_range": "3",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "-",
+      "test_value": 20.0,
+      "bio_reference_range": "3",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 2008.0,
+      "bio_reference_range": "= Mr",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 1602.0,
+      "bio_reference_range": "7",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 0.6,
+      "bio_reference_range": "4",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "--",
+      "test_value": 0.4,
+      "bio_reference_range": "5",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "(",
+      "test_value": 0.08,
+      "bio_reference_range": ".-",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

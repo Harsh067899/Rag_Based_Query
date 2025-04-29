@@ -1,0 +1,53 @@
+{
+  "image": "BLR-0425-PA-0042659_REPORT_0001_28-04-2025_1015-20_AM@G.pdf_page_7.png",
+  "tests": [
+    {
+      "test_name": "+",
+      "test_value": 7420.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "P",
+      "test_value": 250426307.0,
+      "bio_reference_range": "Bill",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 8.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 33.0,
+      "bio_reference_range": "mmol Zi",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "BIS-",
+      "test_value": 5.0,
+      "bio_reference_range": "5",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "ates",
+      "test_value": 10.0,
+      "bio_reference_range": "8",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 305.0,
+      "bio_reference_range": "y",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "OtH",
+      "test_value": 27.0,
+      "bio_reference_range": "-Apr2025310",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

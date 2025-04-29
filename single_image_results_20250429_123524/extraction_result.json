@@ -1,0 +1,123 @@
+{
+  "image_path": "G:\\Bajaj_finserv-DataScience\\lbmaske\\BLR-0425-PA-0041577_PA REQUEST_24-04-2025_0744-39_PM@G.pdf_page_15.png",
+  "extraction_time": "2025-04-29 12:35:27",
+  "text_length": 2385,
+  "tests_found": 19,
+  "tests_data": [
+    {
+      "test_name": "wy SRIVEN H",
+      "test_value": 0.0,
+      "bio_reference_range": "SPITAL 2",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "JAPSEB Co",
+      "test_value": 1.0,
+      "bio_reference_range": "ony",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "DESCRIPTI",
+      "test_value": 0.0,
+      "bio_reference_range": "N",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Co",
+      "test_value": 1.0,
+      "bio_reference_range": "our Dark Ye11ow",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "cp Tarbid C",
+      "test_value": 1.0,
+      "bio_reference_range": "ear/S1ight1y Hazy/Hazy/Turbid. j",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "P",
+      "test_value": 0.0,
+      "bio_reference_range": "SITIVE",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Bi",
+      "test_value": 1.0,
+      "bio_reference_range": "irubin Bi1e",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Urobi",
+      "test_value": 1.0,
+      "bio_reference_range": "invijen",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "NEGATIVE (P",
+      "test_value": 0.0,
+      "bio_reference_range": "SITIVE",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "ood",
+      "test_value": 2.0,
+      "bio_reference_range": "NEGATIVE > Ne",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "NEGATIVE P",
+      "test_value": 0.0,
+      "bio_reference_range": "SITIVE",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "oes iNEGATIVE/P",
+      "test_value": 0.0,
+      "bio_reference_range": "SITIVE",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "NEGATIVE/ P",
+      "test_value": 0.0,
+      "bio_reference_range": "SITIVE",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "MIGR",
+      "test_value": 0.0,
+      "bio_reference_range": "SC0PIC EXAMINATI0N.",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "(WBC) ce",
+      "test_value": 1.0,
+      "bio_reference_range": "is",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Red b",
+      "test_value": 1.0,
+      "bio_reference_range": "ood Ee1is =rox0d o=27 Her",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Epithe",
+      "test_value": 1.0,
+      "bio_reference_range": "ia1e11g",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "- fir Patho",
+      "test_value": 1.0,
+      "bio_reference_range": "ogist",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "stivenhospita",
+      "test_value": 17.0,
+      "bio_reference_range": "9",
+      "lab_test_out_of_range": false
+    }
+  ],
+  "tests_out_of_range": 0
+}

@@ -1,0 +1,41 @@
+OCR Comparison Report for BLR-0425-PA-0039192_a044492e47444b7ca0f3e3bbe049ce2c_compressed_27-04-2025_0228-52_PM@E.pdf_page_76.png
+Generated on: 2025-04-29 12:36:34
+
+Summary:
+- Tesseract found 25 tests in 3.62 seconds
+- EasyOCR found 0 tests in 0.00 seconds
+- Agreement rate: 0.0%
+- Value match rate: 0.0%
+
+Common Tests:
+No common tests found.
+
+Tests found only by Tesseract:
+1. Is: 0.0 (Range: )
+2. Point Patho: 1.0 (Range: ogy Labs)
+3. EQUIPPED WITH C: 0.0 (Range: MPUTERISED AUT0 CHEMISTRY)
+4. st F: 1.0 (Range: oor)
+5. SARV: 0.0 (Range: DAYA H0SPITAL Dr.)
+6. Investigation: 0.0 (Range: bserved Va1ue Unit Bic1ogica1 Ref interva1)
+7. BI: 0.0 (Range: CHEMISTRY)
+8. VER FUNCTI: 0.0 (Range: N TEST)
+9. BILIRUBIN T: 0.0 (Range: TAL o mg/d1 0.30- 1.20)
+10. BILIRUBIN): 7.79 (Range: H mafdb 0.00 - 0.30)
+11. UNC: 0.0 (Range: NJUGATED)
+12. SG: 0.0 (Range: T 162H IWIL 0.00 - 46.00)
+13. SGPT: 86.0 (Range: H WL 0.00 - 49.00)
+14. ALKALINE PH: 0.0 (Range: SPHATASE 396 H UA 42.00 - 128.00)
+15. TAL PR: 0.0 (Range: TEIN 6.2 gnvd1 6.20- 8.00)
+16. ALBUMIN: 374.0 (Range: gmid1 3.80 - 5.40)
+17. GL: 0.0 (Range: BULIN 2.5 gmd1 1.50 - 3.60)
+18. WG RATI: 0.0 (Range: )
+19. GAMMAT-GT: 263.0 (Range: H IU/L 11.00 - 50.00)
+20. END: 0.0 (Range: F REP0RT)
+21. F: 0.0 (Range: R H0RM0NES ASSAYS)
+22. AB: 0.0 (Range: VE MENTI0NED FINDINGS ARE A PR0FESSI0NAL JAND N0T A FINAL DIAGN0SIS)
+23. INVESTIGATI: 0.0 (Range: N RESULTS ARE T0 BE C0RELATED CLINIC-PATH0L0GICALLY)
+24. T VAILD F: 0.0 (Range: R LEGAL PURP0SE)
+25. CLINICAL C: 0.0 (Range: RELATI0N IS MANDAT0RY)
+
+Tests found only by EasyOCR:
+None

@@ -1,0 +1,53 @@
+{
+  "image": "CHD-0425-PA-0009736_F-JANAKRANI_250427_1826@G.pdf_page_6.png",
+  "tests": [
+    {
+      "test_name": "",
+      "test_value": 7.0,
+      "bio_reference_range": "34",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 65.0,
+      "bio_reference_range": "vel          B",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "AIGRATIO",
+      "test_value": 3.0,
+      "bio_reference_range": "bo",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 102.0,
+      "bio_reference_range": "Ui",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "(",
+      "test_value": 0.0,
+      "bio_reference_range": "Bilirubin        os    1 maja      000.03",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "SCDIUM",
+      "test_value": 1358.0,
+      "bio_reference_range": "REGUL",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 1.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "s",
+      "test_value": 183.0,
+      "bio_reference_range": "-5020501",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

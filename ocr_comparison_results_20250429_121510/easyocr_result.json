@@ -1,0 +1,4 @@
+{
+  "is_success": false,
+  "error": "Bad CRC-32 for file 'craft_mlt_25k.pth'"
+}

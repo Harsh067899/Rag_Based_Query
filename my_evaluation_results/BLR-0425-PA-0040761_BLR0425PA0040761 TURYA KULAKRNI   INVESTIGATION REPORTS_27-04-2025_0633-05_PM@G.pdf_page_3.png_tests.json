@@ -1,0 +1,35 @@
+{
+  "image": "BLR-0425-PA-0040761_BLR0425PA0040761 TURYA KULAKRNI   INVESTIGATION REPORTS_27-04-2025_0633-05_PM@G.pdf_page_3.png",
+  "tests": [
+    {
+      "test_name": "Py",
+      "test_value": 7.0,
+      "bio_reference_range": "oaks Rey Sates nts",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "ao Reg Noy",
+      "test_value": 12348.0,
+      "bio_reference_range": "Festoate",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 0.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "oar",
+      "test_value": 7.0,
+      "bio_reference_range": "Go.     =               -       RB o-8 TT 4 ore OF",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 4.0,
+      "bio_reference_range": "g SU AWIDARTESTINEGATIVE .o TaGheen 4 2    1  ot",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

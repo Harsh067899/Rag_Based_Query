@@ -1,0 +1,89 @@
+{
+  "image": "BLR-0425-PA-0039192_E-ParmeshwarRunningBill_250426_1612@E.pdf_page_93.png",
+  "tests": [
+    {
+      "test_name": "B",
+      "test_value": 29.0,
+      "bio_reference_range": "ee EQUIRPED WITH",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "CREP",
+      "test_value": 105175102751.0,
+      "bio_reference_range": "077",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Jo",
+      "test_value": 78.0,
+      "bio_reference_range": "RegnNo.MGI 3456-5",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "Referred           VERMA      -",
+      "test_value": 7.0,
+      "bio_reference_range": "Co",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 19.0,
+      "bio_reference_range": "re     Receiving L",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Ward No     SP-",
+      "test_value": 25.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "/",
+      "test_value": 891503.0,
+      "bio_reference_range": "e      Date TAT",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "a",
+      "test_value": 7.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 147.0,
+      "bio_reference_range": "- 90.00",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 7.0,
+      "bio_reference_range": "oa   aT  -",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 8.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "ate",
+      "test_value": 7.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "MEN O",
+      "test_value": 14.0,
+      "bio_reference_range": "V A100",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "ae    SETMIERER CLIMICACCORECATION IS Wi ANIDA",
+      "test_value": 7.0,
+      "bio_reference_range": "-O RV seen aes Cac    eee",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

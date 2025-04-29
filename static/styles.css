@@ -1,0 +1,308 @@
+/* Main styles for the Lab Report Processing API */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+    margin: 0;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+
+h1, h2, h3, h4 {
+    color: #2c3e50;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 15px;
+    border-bottom: 2px solid #eaecef;
+    margin-bottom: 30px;
+}
+
+/* Upload area styles */
+.upload-container {
+    padding: 30px;
+    border: 2px dashed #3498db;
+    border-radius: 8px;
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: #f1f8fe;
+}
+
+.drop-area {
+    padding: 40px;
+    background-color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.drop-area:hover {
+    background-color: #e3f2fd;
+}
+
+.drop-area.highlight {
+    background-color: #d0e8ff;
+    border: 1px solid #3498db;
+}
+
+.file-input {
+    display: none;
+}
+
+/* Options container */
+.options-container {
+    margin: 15px 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.checkbox-group {
+    display: flex;
+    align-items: center;
+    margin: 5px 0;
+}
+
+.checkbox-group input[type="checkbox"] {
+    margin-right: 8px;
+}
+
+/* Form elements */
+input, button, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+}
+
+.query-input {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 10px 0;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
+
+/* Results area styles */
+.results-container {
+    display: none;
+    margin-top: 30px;
+    padding: 20px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+/* Loading indicator */
+.loading {
+    display: none;
+    text-align: center;
+    margin: 30px 0;
+}
+
+.spinner {
+    border: 5px solid rgba(0, 0, 0, 0.1);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border-left-color: #3498db;
+    animation: spin 1s linear infinite;
+    margin: 0 auto;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+th, td {
+    padding: 12px 15px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+    font-weight: 600;
+}
+
+tbody tr:hover {
+    background-color: #f5f5f5;
+}
+
+tr.abnormal {
+    background-color: #fff0f0;
+}
+
+tr.abnormal:hover {
+    background-color: #ffe0e0;
+}
+
+/* Tabs */
+.tab-container {
+    margin-top: 20px;
+}
+
+.tab-buttons {
+    display: flex;
+    gap: 2px;
+    border-bottom: 1px solid #ddd;
+}
+
+.tab-button {
+    padding: 10px 20px;
+    background-color: #f2f2f2;
+    cursor: pointer;
+    border: 1px solid #ddd;
+    border-bottom: none;
+    border-radius: 5px 5px 0 0;
+    transition: all 0.2s ease;
+}
+
+.tab-button:hover {
+    background-color: #e9e9e9;
+}
+
+.tab-button.active {
+    background-color: #fff;
+    border-bottom: 1px solid white;
+    margin-bottom: -1px;
+    font-weight: bold;
+}
+
+.tab-content {
+    display: none;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-top: none;
+    border-radius: 0 0 5px 5px;
+    background-color: #fff;
+}
+
+.tab-content.active {
+    display: block;
+}
+
+/* Image preview */
+.image-preview {
+    max-width: 100%;
+    max-height: 300px;
+    margin-top: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* OCR Comparison */
+.ocr-comparison {
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.comparison-section {
+    flex: 1;
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+.comparison-section h4 {
+    margin-top: 0;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 8px;
+}
+
+/* Debug info styles */
+#debug-info {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+    border-left: 4px solid #17a2b8;
+    margin-bottom: 20px;
+}
+
+#debug-info h3 {
+    margin-top: 0;
+    color: #17a2b8;
+}
+
+#debug-info p {
+    margin: 8px 0;
+}
+
+/* RAG analysis styles */
+#rag-results {
+    line-height: 1.6;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    border-left: 4px solid #3498db;
+}
+
+/* Raw JSON styles */
+#raw-json {
+    background-color: #f5f5f5;
+    padding: 15px;
+    border-radius: 5px;
+    overflow-x: auto;
+    font-family: monospace;
+    white-space: pre-wrap;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .container {
+        padding: 10px;
+    }
+    
+    .upload-container, .drop-area {
+        padding: 15px;
+    }
+    
+    button {
+        padding: 10px 15px;
+    }
+    
+    .tab-button {
+        padding: 8px 12px;
+        font-size: 14px;
+    }
+    
+    .ocr-comparison {
+        flex-direction: column;
+    }
+} 

@@ -1,0 +1,35 @@
+{
+  "image": "BLR-0425-PA-0038965_BIPUL CHAKRABORTY 0038965 2 OF 2_28-04-2025_1014-26_AM.pdf_page_8.png",
+  "tests": [
+    {
+      "test_name": "R",
+      "test_value": 24.0,
+      "bio_reference_range": "Big",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "AGHIO",
+      "test_value": 3.0,
+      "bio_reference_range": "L270R.",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "ae     (GSS naan eaonen   ITVS EASES DIGEIREN  SECURE ROK",
+      "test_value": 3.0,
+      "bio_reference_range": "PERRIER ANID  Laster get eens",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "CREATININES                  i",
+      "test_value": 48.0,
+      "bio_reference_range": "smgfal",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "QMindspacd USE GEER Feige",
+      "test_value": 300.0,
+      "bio_reference_range": "G82",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

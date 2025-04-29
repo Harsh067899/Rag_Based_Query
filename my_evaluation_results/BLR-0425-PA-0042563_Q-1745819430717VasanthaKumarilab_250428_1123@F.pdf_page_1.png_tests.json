@@ -1,0 +1,125 @@
+{
+  "image": "BLR-0425-PA-0042563_Q-1745819430717VasanthaKumarilab_250428_1123@F.pdf_page_1.png",
+  "tests": [
+    {
+      "test_name": "",
+      "test_value": 0.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "MHO",
+      "test_value": 4929753.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "MD (Biochem) on",
+      "test_value": 23.0,
+      "bio_reference_range": "/04/2025 at 16",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Post HD BUN (Urease/GLDH)",
+      "test_value": 2.1,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "d",
+      "test_value": 0.0,
+      "bio_reference_range": "7",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "S on",
+      "test_value": 23.0,
+      "bio_reference_range": "/04/2025 at 11",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "SERUM ALBUMIN (BCG)",
+      "test_value": 2.4,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "(",
+      "test_value": 0.0,
+      "bio_reference_range": "7",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "S on",
+      "test_value": 23.0,
+      "bio_reference_range": "/04/2025 at 11",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Blood Urea Nitrogen (Urease/GLDH)",
+      "test_value": 5.5,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "d",
+      "test_value": 0.0,
+      "bio_reference_range": "7",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "S on",
+      "test_value": 23.0,
+      "bio_reference_range": "/04/2025 at 11",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 7.67,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "d",
+      "test_value": 0.0,
+      "bio_reference_range": "7",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "S on",
+      "test_value": 23.0,
+      "bio_reference_range": "/04/2025 at 11",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Jaffe)",
+      "test_value": 3.33,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "eGFR (Calculated)",
+      "test_value": 13.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "eGFR which is primarily based on Serum Creatinine is a derivation of CKD-EPI",
+      "test_value": 200.0,
+      "bio_reference_range": "9",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "m BSA and is not applicable to individuals below",
+      "test_value": 18.0,
+      "bio_reference_range": "years.",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "d",
+      "test_value": 0.0,
+      "bio_reference_range": "7",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

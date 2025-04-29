@@ -1,0 +1,23 @@
+{
+  "image": "BLR-0425-PA-0039883_ALL CLAIMS DOCM BHUVANESHWARI VIDAL_0001_27-04-2025_1131-10_AM@E.pdf_page_41.png",
+  "tests": [
+    {
+      "test_name": "iPHS",
+      "test_value": 5967.0,
+      "bio_reference_range": "4",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "/",
+      "test_value": 70022944.0,
+      "bio_reference_range": "8",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "KMC",
+      "test_value": 10286.0,
+      "bio_reference_range": "5",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

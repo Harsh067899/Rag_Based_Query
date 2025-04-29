@@ -1,0 +1,167 @@
+{
+  "image": "BLR-0425-PA-0042614_F-KYC_PC_BARNISH_ARULMOZHIE_1_250427_1745@G.pdf_page_8.png",
+  "tests": [
+    {
+      "test_name": "Collection Date/ Time C",
+      "test_value": 73.0,
+      "bio_reference_range": "2",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Plasma GLUCOSE-Fasting (Hexokinase)",
+      "test_value": 103.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "TOTAL CHOLESTEROL (CHOD/POD)",
+      "test_value": 129.0,
+      "bio_reference_range": "mg/d",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "-",
+      "test_value": 23.0,
+      "bio_reference_range": "9",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "TRIGLYCERIDES (GPO/POD)",
+      "test_value": 99.0,
+      "bio_reference_range": "mg/dl",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "-",
+      "test_value": 19.0,
+      "bio_reference_range": "9",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 200.0,
+      "bio_reference_range": "- 499",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "ADL - CHOLESTEROL (Enzymatic)",
+      "test_value": 53.0,
+      "bio_reference_range": "mg/dl",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "VLDL - Cholesterol (Calculated)",
+      "test_value": 20.0,
+      "bio_reference_range": "mg/dl",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "LDL- CHOLESTEROL (Enzymatic)",
+      "test_value": 78.0,
+      "bio_reference_range": "mg/dl.",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Near/Above optimal-",
+      "test_value": 100.0,
+      "bio_reference_range": "-129",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "-",
+      "test_value": 15.0,
+      "bio_reference_range": "9",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "-",
+      "test_value": 18.0,
+      "bio_reference_range": "9",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Chol ratio (Calculated)",
+      "test_value": 2.4,
+      "bio_reference_range": "<4.0 Optimal",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "-",
+      "test_value": 5.0,
+      "bio_reference_range": "Borderline",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 1.4,
+      "bio_reference_range": "<3 Optimal",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "-",
+      "test_value": 4.0,
+      "bio_reference_range": "Borderline",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Recommended to do fasting Lipid Profile after a minimum of",
+      "test_value": 8.0,
+      "bio_reference_range": "hours of overnight fasting.",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Collection Date/ Time TH              Jiss",
+      "test_value": 3.0,
+      "bio_reference_range": "6",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "As per American Diabetes Association (ADA)",
+      "test_value": 201.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "HbAle (Glycosylated Hemoglobin)",
+      "test_value": 7.8,
+      "bio_reference_range": "48",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 5.7,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 5.7,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 6.5,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Monitoring compliance and long-texm blood glucose level contro",
+      "test_value": 2.0,
+      "bio_reference_range": "in patients with diabetes.",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "(",
+      "test_value": 202.0,
+      "bio_reference_range": "1",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "(",
+      "test_value": 201.0,
+      "bio_reference_range": "8",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

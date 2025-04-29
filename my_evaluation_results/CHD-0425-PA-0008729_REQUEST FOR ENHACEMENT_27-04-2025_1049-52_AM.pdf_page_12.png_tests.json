@@ -1,0 +1,53 @@
+{
+  "image": "CHD-0425-PA-0008729_REQUEST FOR ENHACEMENT_27-04-2025_1049-52_AM.pdf_page_12.png",
+  "tests": [
+    {
+      "test_name": "",
+      "test_value": 3.0,
+      "bio_reference_range": "GnTRoad",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 7.0,
+      "bio_reference_range": "Ph",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "(",
+      "test_value": 5.3,
+      "bio_reference_range": "2",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 114.0,
+      "bio_reference_range": "g/dl",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 39.0,
+      "bio_reference_range": "",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "ER MICH Teg            Es",
+      "test_value": 2.0,
+      "bio_reference_range": "1",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "re es   fo KR",
+      "test_value": 393.0,
+      "bio_reference_range": "gil       530.360      OF 80 We ee",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Tei",
+      "test_value": 0.0,
+      "bio_reference_range": "-170",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

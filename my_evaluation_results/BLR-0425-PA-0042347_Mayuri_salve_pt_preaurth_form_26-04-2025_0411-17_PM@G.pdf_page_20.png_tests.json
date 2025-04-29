@@ -1,0 +1,47 @@
+{
+  "image": "BLR-0425-PA-0042347_Mayuri_salve_pt_preaurth_form_26-04-2025_0411-17_PM@G.pdf_page_20.png",
+  "tests": [
+    {
+      "test_name": "Rea sapere ertcaeoaen ALLE limi                        ve",
+      "test_value": 0.0,
+      "bio_reference_range": "3",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Count",
+      "test_value": 70900.0,
+      "bio_reference_range": "wens   A           a",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 227.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 2.0,
+      "bio_reference_range": "Pa     ue",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Basophils",
+      "test_value": 0.0,
+      "bio_reference_range": "eeccimomeen",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 24.2,
+      "bio_reference_range": "8",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 1.0,
+      "bio_reference_range": "2",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

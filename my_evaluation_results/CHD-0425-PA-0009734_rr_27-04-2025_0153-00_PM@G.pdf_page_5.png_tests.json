@@ -1,0 +1,35 @@
+{
+  "image": "CHD-0425-PA-0009734_rr_27-04-2025_0153-00_PM@G.pdf_page_5.png",
+  "tests": [
+    {
+      "test_name": "",
+      "test_value": 26.0,
+      "bio_reference_range": "-Apr-2025 7",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "O                  SGRD-",
+      "test_value": 4257751.0,
+      "bio_reference_range": "CI                             P                  P",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "SE",
+      "test_value": 3934022.0,
+      "bio_reference_range": "Collec. Date       1 27-Apr-2025 9",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "EMERGENCY MEDICINE        Report Date",
+      "test_value": 1.0,
+      "bio_reference_range": "27-Apr-2025 10",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 4498.0,
+      "bio_reference_range": "Printed On",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

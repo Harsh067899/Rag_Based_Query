@@ -1,0 +1,65 @@
+{
+  "image": "BLR-0425-PA-0042659_REPORT_0001_28-04-2025_1015-20_AM@G.pdf_page_10.png",
+  "tests": [
+    {
+      "test_name": "HOSPITAL                Savi Murnbai",
+      "test_value": 400.0,
+      "bio_reference_range": "706",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Apr-",
+      "test_value": 2025.0,
+      "bio_reference_range": "041",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "CASH DICU",
+      "test_value": 2.0,
+      "bio_reference_range": ".PVT                         saimpl",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 7.0,
+      "bio_reference_range": "Biological Ref Rangel. = iA",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "utrophils",
+      "test_value": 4.0,
+      "bio_reference_range": "a                         TOSS 7          240-70",
+      "lab_test_out_of_range": true
+    },
+    {
+      "test_name": "Lymphocytes",
+      "test_value": 1.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Eosinophils                 O",
+      "test_value": 2.0,
+      "bio_reference_range": "i           UO",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Old",
+      "test_value": 1.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "O",
+      "test_value": 88.0,
+      "bio_reference_range": "7p          6.02.10 10",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Print Dtsi",
+      "test_value": 272.0,
+      "bio_reference_range": "Apr-2025.10",
+      "lab_test_out_of_range": false
+    }
+  ]
+}

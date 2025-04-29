@@ -1,0 +1,77 @@
+{
+  "image": "AHD-0425-PA-0008061_E-mahendrasinghdischargecard_250427_1114@E.pdf_page_13.png",
+  "tests": [
+    {
+      "test_name": "-",
+      "test_value": 44.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "causa a fac MOB",
+      "test_value": 9372606384.0,
+      "bio_reference_range": "513",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 2.0,
+      "bio_reference_range": "27-Apre2025 10118.AM",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "mee          emn/dl)",
+      "test_value": 13.0,
+      "bio_reference_range": "0",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Neuwophils",
+      "test_value": 7.0,
+      "bio_reference_range": "6Gs",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "Lymphocytes",
+      "test_value": 24.0,
+      "bio_reference_range": "F",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "(",
+      "test_value": 7.0,
+      "bio_reference_range": "Hosinophiis",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "pag",
+      "test_value": 0.0,
+      "bio_reference_range": "G",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 2208.0,
+      "bio_reference_range": "/ cumin",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 552.0,
+      "bio_reference_range": "of eiritn             200-1000",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 398000.0,
+      "bio_reference_range": "igells/eunimn a",
+      "lab_test_out_of_range": false
+    },
+    {
+      "test_name": "",
+      "test_value": 5.0,
+      "bio_reference_range": "iets ees ated 025 Lt     .                                               se    -",
+      "lab_test_out_of_range": false
+    }
+  ]
+}
