@@ -1,39 +1,71 @@
-from flask import Flask, request, render_template, jsonify
 import os
-from werkzeug.utils import secure_filename
-from lab_report_processor_final import process_lab_report
+import time
 
-app = Flask(__name__)
-app.config['UPLOAD_FOLDER'] = 'uploads'
-app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024  # 16MB max file size
+import streamlit as st
 
-# Create upload folder if it doesn't exist
-os.makedirs(app.config['UPLOAD_FOLDER'], exist_ok=True)
+from extract import extract_text_from_pdfs
+from generate import generate_response
+from preprocess import preprocess_text
+from retrieve import create_vectorizer, retrieve
 
-@app.route('/', methods=['GET'])
-def index():
-    return render_template('index.html')
+# Streamlit UI
+st.title("RAG-based PDF Query System")
 
-@app.route('/process', methods=['POST'])
-def process_image():
-    if 'file' not in request.files:
-        return jsonify({'is_success': False, 'error': 'No file part'})
-    
-    file = request.files['file']
-    if file.filename == '':
-        return jsonify({'is_success': False, 'error': 'No selected file'})
-    
-    # Check if it's an image
-    if not file.content_type.startswith('image/'):
-        return jsonify({'is_success': False, 'error': 'File must be an image'})
-    
-    # Read the file contents
-    image_bytes = file.read()
-    
-    # Process the image
-    result = process_lab_report(image_bytes)
-    
-    return jsonify(result)
+uploaded_files = st.file_uploader("Upload PDFs", type=["pdf"], accept_multiple_files=True)
 
-if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=5000)
+if uploaded_files:
+    st.write("Processing the uploaded PDFs...")
+
+    # Initialize progress bar
+    progress_bar = st.progress(0)
+    status_text = st.empty()
+
+    # Save uploaded files to disk
+    pdf_files = []
+    for uploaded_file in uploaded_files:
+        with open(uploaded_file.name, "wb") as f:
+            f.write(uploaded_file.getbuffer())
+        pdf_files.append(uploaded_file.name)
+
+    # Extract text from PDFs with progress updates
+    num_files = len(pdf_files)
+    texts = []
+    for i, pdf_file in enumerate(pdf_files):
+        status_text.text(f"Extracting text from file {i + 1} of {num_files}...")
+        text = extract_text_from_pdfs([pdf_file])
+        texts.extend(text)
+        progress_bar.progress((i + 1) / num_files)
+        time.sleep(0.1)  # Simulate time taken for processing
+
+    # Preprocess text with progress updates
+    status_text.text("Preprocessing text...")
+    progress_bar.progress(0.5)
+    processed_texts = preprocess_text(texts)
+    time.sleep(0.1)  # Simulate time taken for processing
+
+    # Create vectorizer and transform texts
+    status_text.text("Creating vectorizer and transforming texts...")
+    progress_bar.progress(0.75)
+    vectorizer, X = create_vectorizer(processed_texts)
+    time.sleep(0.1)  # Simulate time taken for processing
+
+    # Finalize progress
+    progress_bar.progress(1.0)
+    status_text.text("Processing complete!")
+
+    query = st.text_input("Enter your query:")
+
+    if query:
+        # Retrieve relevant texts
+        top_indices = retrieve(query, X, vectorizer)
+        retrieved_texts = [texts[i] for i in top_indices]
+
+        # Generate response
+        response = generate_response(retrieved_texts, query)
+
+        st.write("Response:")
+        st.write(response)
+
+    # Clean up uploaded files
+    for pdf_file in pdf_files:
+        os.remove(pdf_file)
